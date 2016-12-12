@@ -24,11 +24,11 @@ def make_browser(unit_id, treatment_id):
 
 # Control Group treatment
 def control_treatment(unit):
-    unit.visit_sites(site_file = 'CaucSites.txt',delay=5)
+    unit.visit_sites(site_file = 'FemaleSites.txt',delay=5)
 
 # Experimental Group treatment
 def exp_treatment(unit):
-    unit.visit_sites(site_file = 'HispSites.txt',delay=5)
+    unit.visit_sites(site_file = 'MaleSites.txt',delay=5)
 
 # Measurement - Collects ads
 def measurement(unit):
