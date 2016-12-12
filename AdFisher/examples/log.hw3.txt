@@ -1,0 +1,349 @@
+2016-10-26 10:49:17.322846||meta||agents||4
+2016-10-26 10:49:17.322874||meta||treatnames||control@|experimental
+2016-10-26 10:49:17.323010||meta||block_id start||0
+2016-10-26 10:49:17.323023||meta||assignment||1@|2@|0@|3
+2016-10-26 10:49:24.666356||event||progress-marker||training-start||2||0
+2016-10-26 10:49:25.634401||event||progress-marker||training-start||1||0
+2016-10-26 10:49:25.731292||event||progress-marker||training-start||0||1
+2016-10-26 10:49:26.043937||event||progress-marker||training-start||3||1
+2016-10-26 10:49:34.827612||treatment||google search||ford||2||0
+2016-10-26 10:49:35.015522||treatment||google search||ford||1||0
+2016-10-26 10:49:43.900907||treatment||visit website||http://passwordjdm.com||0||1
+2016-10-26 10:49:43.903894||treatment||visit website||http://passwordjdm.com||3||1
+2016-10-26 10:49:47.677507||error||visiting||google searchresults||2||0
+2016-10-26 10:49:47.761542||error||visiting||google searchresults||1||0
+2016-10-26 10:49:58.624329||treatment||visit website||http://automall.com||0||1
+2016-10-26 10:50:00.657870||treatment||visit website||http://automall.com||3||1
+2016-10-26 10:50:19.192145||treatment||visit website||http://australianmusclecarsales.com.au||0||1
+2016-10-26 10:50:27.590372||treatment||visit page||http://www.ford.com/?gclid=CJ7dke7b-M8CFYqEfgodmNUA8w&s_kwcid=AL!2519!3!90779943514!e!!g!!ford&ef_id=WBDCoAAAACORFG60:20161026145008:s||2||0
+2016-10-26 10:50:27.663170||treatment||visit website||http://autosearcher.com||0||1
+2016-10-26 10:50:29.747454||treatment||visit website||http://australianmusclecarsales.com.au||3||1
+2016-10-26 10:50:34.521152||treatment||visit page||http://www.ford.com/?gclid=CMT9nu7b-M8CFYqEfgodmNUA8w&s_kwcid=AL!2519!3!90779943514!e!!g!!ford&ef_id=WBDCoAAABJM61QdF:20161026145008:s||1||0
+2016-10-26 10:50:39.180260||treatment||visit website||http://autosearcher.com||3||1
+2016-10-26 10:50:42.477295||treatment||visit website||http://prostreetonline.com||0||1
+2016-10-26 10:50:46.074594||treatment||google search||ford||0||1
+2016-10-26 10:50:49.655958||treatment||visit website||http://prostreetonline.com||3||1
+2016-10-26 10:50:54.507170||treatment||google search||ford||3||1
+2016-10-26 10:50:54.705432||treatment||visit page||http://www.ford.com/?gclid=CNrN94Dc-M8CFRBxfgodre0FoA&s_kwcid=AL!2519!3!90779943514!e!!g!!ford&ef_id=WBDCoAAAACORFG60:20161026145047:s||2||0
+2016-10-26 10:50:57.772243||error||visiting||google searchresults||0||1
+2016-10-26 10:51:02.898198||treatment||visit page||http://www.ford.com/?gclid=CJaH44Tc-M8CFQaRfgodWHUCdA&s_kwcid=AL!2519!3!90779943514!e!!g!!ford&ef_id=WBDCoAAABJM61QdF:20161026145056:s||1||0
+2016-10-26 10:51:08.662980||error||visiting||google searchresults||3||1
+2016-10-26 10:51:22.005516||treatment||visit page||http://www.ford.com/?gclid=CL6Lqo_c-M8CFUtNfgodwMIJVg&s_kwcid=AL!2519!3!90779943994!e!!g!!ford&ef_id=WBDC5gAAAYliMS0H:20161026145118:s||0||1
+2016-10-26 10:51:24.750015||error||visiting||google searchresults||2||0
+2016-10-26 10:51:33.044643||error||visiting||google searchresults||1||0
+2016-10-26 10:51:33.697246||treatment||visit page||http://www.ford.com/?gclid=CO33xZTc-M8CFRB4fgodq4YNSQ&s_kwcid=AL!2519!3!90779943514!e!!g!!ford&ef_id=WBDC8QAABZ4X4p0U:20161026145129:s||3||1
+2016-10-26 10:51:49.354321||treatment||visit page||http://www.showroom.ford.com/FDShowroom.jsp?gclid=CJWEnZzc-M8CFU9cfgodk8YENA&searchid=386018074||90779943514&s_kwcid=AL!2519!3!90779943514!e!!g!!ford&ef_id=WBDCoAAAACORFG60:20161026145145:s||2||0
+2016-10-26 10:51:51.151337||treatment||visit page||http://www.ford.com/?gclid=CL3e6prc-M8CFUprfgodgbgDOw&s_kwcid=AL!2519!3!90779943994!e!!g!!ford&ef_id=WBDC5gAAAYliMS0H:20161026145142:s||0||1
+2016-10-26 10:52:00.602428||treatment||visit page||http://www.showroom.ford.com/FDShowroom.jsp?gclid=CNT8jKDc-M8CFc6Xfgodj_cPEw&searchid=386018074||90779943514&s_kwcid=AL!2519!3!90779943514!e!!g!!ford&ef_id=WBDCoAAABJM61QdF:20161026145153:s||1||0
+2016-10-26 10:52:01.378886||treatment||visit page||http://www.ford.com/?gclid=COy2wqDc-M8CFY9efgod6akEYQ&s_kwcid=AL!2519!3!90779943514!e!!g!!ford&ef_id=WBDC8QAABZ4X4p0U:20161026145154:s||3||1
+2016-10-26 10:52:15.730448||treatment||visit page||http://www.showroom.ford.com/FDShowroom.jsp?gclid=CIWP8afc-M8CFUiPfgodP0gPHw&searchid=386018074||90779943514&s_kwcid=AL!2519!3!90779943514!e!!g!!ford&ef_id=WBDCoAAAACORFG60:20161026145209:s||2||0
+2016-10-26 10:52:21.292434||error||visiting||google searchresults||0||1
+2016-10-26 10:52:27.595178||treatment||visit page||http://www.showroom.ford.com/FDShowroom.jsp?gclid=COern63c-M8CFUWCfgodoCUDWQ&searchid=386018074||90779943514&s_kwcid=AL!2519!3!90779943514!e!!g!!ford&ef_id=WBDCoAAABJM61QdF:20161026145220:s||1||0
+2016-10-26 10:52:31.470570||error||visiting||google searchresults||3||1
+2016-10-26 10:52:45.108714||treatment||visit page||http://www.showroom.ford.com/FDShowroom.jsp?gclid=CMOqjrfc-M8CFQyHfgodJL8Eog&searchid=386018074||90779943994&s_kwcid=AL!2519!3!90779943994!e!!g!!ford&ef_id=WBDC5gAAAYliMS0H:20161026145241:s||0||1
+2016-10-26 10:52:45.813696||error||visiting||google searchresults||2||0
+2016-10-26 10:52:57.700567||error||visiting||google searchresults||1||0
+2016-10-26 10:52:58.013939||treatment||visit page||http://www.showroom.ford.com/FDShowroom.jsp?gclid=CLGV_bvc-M8CFUJqfgodutIMPA&searchid=386018074||90779943514&s_kwcid=AL!2519!3!90779943514!e!!g!!ford&ef_id=WBDC8QAABZ4X4p0U:20161026145251:s||3||1
+2016-10-26 10:53:11.492074||treatment||visit page||http://www.showroom.ford.com/FDShowroom.jsp?gclid=CNOfvcLc-M8CFVGVfgodGCEBoA&searchid=386018074||90779943994&s_kwcid=AL!2519!3!90779943994!e!!g!!ford&ef_id=WBDC5gAAAYliMS0H:20161026145305:s||0||1
+2016-10-26 10:53:13.519994||treatment||visit page||http://www.ford.com/incentives/?gclid=COTR7sLc-M8CFURsfgodftsGrw&searchid=386018074||90779943514&s_kwcid=AL!2519!3!90779943514!e!!g!!ford&ef_id=WBDCoAAAACORFG60:20161026145306:s||2||0
+2016-10-26 10:53:24.814016||treatment||visit page||http://www.showroom.ford.com/FDShowroom.jsp?gclid=CPP72cjc-M8CFQ9Efgod-GQPtQ&searchid=386018074||90779943514&s_kwcid=AL!2519!3!90779943514!e!!g!!ford&ef_id=WBDC8QAABZ4X4p0U:20161026145318:s||3||1
+2016-10-26 10:53:30.461052||treatment||visit page||http://www.ford.com/incentives/?gclid=CKq0vMjc-M8CFYF7fgodNUkNoQ&searchid=386018074||90779943514&s_kwcid=AL!2519!3!90779943514!e!!g!!ford&ef_id=WBDCoAAABJM61QdF:20161026145317:s||1||0
+2016-10-26 10:53:35.971047||treatment||google search||honda||2||0
+2016-10-26 10:53:41.775262||error||visiting||google searchresults||0||1
+2016-10-26 10:53:47.541359||error||visiting||google searchresults||2||0
+2016-10-26 10:53:52.599951||treatment||google search||honda||1||0
+2016-10-26 10:53:54.921960||error||visiting||google searchresults||3||1
+2016-10-26 10:54:04.168813||error||visiting||google searchresults||1||0
+2016-10-26 10:54:06.594637||treatment||visit page||http://www.ford.com/incentives/?gclid=CP68v93c-M8CFUNlfgodZ20L2w&searchid=386018074||90779943994&s_kwcid=AL!2519!3!90779943994!e!!g!!ford&ef_id=WBDC5gAAAYliMS0H:20161026145402:s||0||1
+2016-10-26 10:54:11.884254||treatment||visit page||http://shop.honda.com/?ef_id=1%3a1%3a1&CID=SEARCH_HRM_GOOGLE_FY17EVERGREEN_OTHER_SHOPPERS&gclid=CMWnreDc-M8CFUKTfgod6t8HGA&gclsrc=aw.ds||2||0
+2016-10-26 10:54:24.163464||treatment||visit page||http://www.ford.com/incentives/?gclid=CJfx4OPc-M8CFUeEfgodyjkEoA&searchid=386018074||90779943514&s_kwcid=AL!2519!3!90779943514!e!!g!!ford&ef_id=WBDC8QAABZ4X4p0U:20161026145415:s||3||1
+2016-10-26 10:54:29.276372||treatment||visit page||http://shop.honda.com/?ef_id=1%3a1%3a1&CID=SEARCH_HRM_GOOGLE_FY17EVERGREEN_OTHER_SHOPPERS&gclid=CL3_n-jc-M8CFQyHfgodhOMEAQ&gclsrc=aw.ds||1||0
+2016-10-26 10:54:30.885902||treatment||google search||honda||0||1
+2016-10-26 10:54:37.935000||treatment||visit page||http://shop.honda.com/?ef_id=1%3a1%3a1&CID=SEARCH_HRM_GOOGLE_FY17EVERGREEN_OTHER_SHOPPERS&gclid=CP-L9evc-M8CFUpNfgodVyECNA&gclsrc=aw.ds||2||0
+2016-10-26 10:54:44.508373||error||visiting||google searchresults||0||1
+2016-10-26 10:54:47.109669||treatment||google search||honda||3||1
+2016-10-26 10:54:58.674089||error||visiting||google searchresults||3||1
+2016-10-26 10:55:01.550221||treatment||visit page||http://shop.honda.com/?ef_id=1%3a1%3a1&CID=SEARCH_HRM_GOOGLE_FY17EVERGREEN_OTHER_SHOPPERS&gclid=CInBj_Tc-M8CFU6Bfgodqf8GjA&gclsrc=aw.ds||1||0
+2016-10-26 10:55:07.991247||treatment||visit page||http://shop.honda.com/?ef_id=1%3a1%3a1&CID=SEARCH_HRM_GOOGLE_FY17EVERGREEN_OTHER_SHOPPERS&gclid=CKrys_vc-M8CFYqBfgodvAQErA&gclsrc=aw.ds||0||1
+2016-10-26 10:55:08.038272||error||visiting||google searchresults||2||0
+2016-10-26 10:55:22.035764||treatment||visit page||http://shop.honda.com/?ef_id=1%3a1%3a1&CID=SEARCH_HRM_GOOGLE_FY17EVERGREEN_OTHER_SHOPPERS&gclid=COuakoLd-M8CFU6SfgodeLMMlw&gclsrc=aw.ds||3||1
+2016-10-26 10:55:31.695097||error||visiting||google searchresults||1||0
+2016-10-26 10:55:31.816393||treatment||visit page||http://automobiles.honda.com/tools/build-price/models.aspx?ef_id=1:1:1&CID=SEARCH_HRM_GOOGLE_FY17EVERGREEN_OTHER_MEDIAVEST_SHOPPERS&gclid=CKir2Ybd-M8CFVKDfgodtRYIFw&gclsrc=aw.ds||2||0
+2016-10-26 10:55:32.102782||treatment||visit page||http://shop.honda.com/?ef_id=1%3a1%3a1&CID=SEARCH_HRM_GOOGLE_FY17EVERGREEN_OTHER_SHOPPERS&gclid=CMC00obd-M8CFQ-dfgod2pEKVQ&gclsrc=aw.ds||0||1
+2016-10-26 10:55:45.518384||treatment||visit page||http://shop.honda.com/?ef_id=1%3a1%3a1&CID=SEARCH_HRM_GOOGLE_FY17EVERGREEN_OTHER_SHOPPERS&gclid=CMCap43d-M8CFUaTfgod1mgEUw&gclsrc=aw.ds||3||1
+2016-10-26 10:55:55.451011||treatment||visit page||http://automobiles.honda.com/tools/build-price/models.aspx?ef_id=1:1:1&CID=SEARCH_HRM_GOOGLE_FY17EVERGREEN_OTHER_MEDIAVEST_SHOPPERS&gclid=CPSzjZLd-M8CFUqUfgod63wC_g&gclsrc=aw.ds||2||0
+2016-10-26 10:56:00.212836||treatment||visit page||http://www.capitolhonda.com/inventory.aspx?_makef=honda&_new=true&_used=true&gaw=adwords&gclid=CIDx75Hd-M8CFcuOfgod8LwK0w||1||0
+2016-10-26 10:56:02.313849||error||visiting||google searchresults||0||1
+2016-10-26 10:56:15.633379||error||visiting||google searchresults||3||1
+2016-10-26 10:56:25.525992||error||visiting||google searchresults||2||0
+2016-10-26 10:56:27.317614||treatment||visit page||http://www.capitolhonda.com/inventory.aspx?_makef=honda&_new=true&_used=true&gaw=adwords&gclid=CJm9vZ_d-M8CFZKGfgodZTANrg||1||0
+2016-10-26 10:56:31.936278||treatment||visit page||http://www.capitolhonda.com/inventory.aspx?_makef=honda&_new=true&_used=true&gaw=adwords&gclid=CJ6ixKDd-M8CFQ2ffgod_BAG_g||0||1
+2016-10-26 10:56:38.874887||treatment||visit page||http://automobiles.honda.com/tools/build-price/models.aspx?ef_id=1:1:1&CID=SEARCH_HRM_GOOGLE_FY17EVERGREEN_OTHER_MEDIAVEST_SHOPPERS&gclid=CM6266bd-M8CFZCcfgodsy4J9w&gclsrc=aw.ds||3||1
+2016-10-26 10:56:49.335061||treatment||visit page||http://automobiles.honda.com/tools/dealer-locator/?ef_id=1:1:1&CID=SEARCH_HRM_GOOGLE_FY17EVERGREEN_OTHER_MEDIAVEST_SHOPPERS&gclid=CI6hyKvd-M8CFRCZfgod4MIB9g&gclsrc=aw.ds||2||0
+2016-10-26 10:56:56.308974||treatment||visit page||http://www.capitolhonda.com/inventory.aspx?_makef=honda&_new=true&_used=true&gaw=adwords&gclid=CKvhza7d-M8CFUNlfgodZ20L2w||0||1
+2016-10-26 10:56:57.426237||error||visiting||google searchresults||1||0
+2016-10-26 10:57:02.188569||treatment||visit page||http://automobiles.honda.com/tools/build-price/models.aspx?ef_id=1:1:1&CID=SEARCH_HRM_GOOGLE_FY17EVERGREEN_OTHER_MEDIAVEST_SHOPPERS&gclid=CMyu97Hd-M8CFRSIfgoddtwPNA&gclsrc=aw.ds||3||1
+2016-10-26 10:57:11.766878||treatment||google search||toyota||2||0
+2016-10-26 10:57:22.128433||treatment||visit page||http://www.southbayhonda.com/?utm_campaign=google&utm_medium=cpc&utm_source=New&UsedHondaDealer&utm_content=New&UsedHondaDealer&utm_term=newandusedhondas&gclid=CLGM5Lrd-M8CFUprfgodgbgDOw||1||0
+2016-10-26 10:57:23.309313||error||visiting||google searchresults||2||0
+2016-10-26 10:57:26.373153||error||visiting||google searchresults||0||1
+2016-10-26 10:57:32.440185||error||visiting||google searchresults||3||1
+2016-10-26 10:57:45.125895||treatment||google search||toyota||1||0
+2016-10-26 10:57:48.509762||treatment||visit page||http://www.toyota.com/?&srchid=sem%7cGOOGLE%7cBrand%7cBrand_Toyota%7cBrand_E%7cBrand%7cTcom&gclid=CJHwlsfd-M8CFUgBfwodHlEM7g&gclsrc=ds||2||0
+2016-10-26 10:57:53.749007||treatment||visit page||https://www.truecar.com/?srtid=paid&srcID=google&cmID=Make+-+Honda+Honda&crid=MawjgEKY3qmhC72RK8We2g%3D%3D|70553349861&mobile=&device=c&aceid=&adpos=1t3&random=4115470495181994964&keyword=honda&matchtype=e&content=&search=1&network=g&target=&placement=&utm_medium=ppc&utm_source=google&utm_term=honda&utm_campaign=Make+-+Honda+Honda&devicemodel=&param1=&param2=&gclid=CMDG3sjd-M8CFYqBfgodvAQErA#/||0||1
+2016-10-26 10:57:55.999691||treatment||visit page||http://automobiles.honda.com/tools/dealer-locator/?ef_id=1:1:1&CID=SEARCH_HRM_GOOGLE_FY17EVERGREEN_OTHER_MEDIAVEST_SHOPPERS&gclid=CKiIzcvd-M8CFUKTfgod6t8HGA&gclsrc=aw.ds||3||1
+2016-10-26 10:57:58.149483||error||visiting||google searchresults||1||0
+2016-10-26 10:58:17.619033||treatment||visit page||http://www.toyota.com/?&srchid=sem%7cGOOGLE%7cBrand%7cBrand_Toyota%7cBrand_E%7cBrand%7cTcom&gclid=CIG5lNPd-M8CFQMVfwodzZYGFg&gclsrc=ds||2||0
+2016-10-26 10:58:19.420387||treatment||google search||toyota||0||1
+2016-10-26 10:58:24.970909||treatment||google search||toyota||3||1
+2016-10-26 10:58:33.502308||error||visiting||google searchresults||0||1
+2016-10-26 10:58:34.737890||treatment||visit page||http://shop.autonationtoyotahayward.com/?wtk=000001495&gclid=CMDj-9fd-M8CFUiRfgodGWAKOA||1||0
+2016-10-26 10:58:35.317151||error||visiting||google searchresults||3||1
+2016-10-26 10:58:47.710736||error||visiting||google searchresults||2||0
+2016-10-26 10:59:08.523718||treatment||visit page||https://www.mbusa.com/mercedes/index?&gclid=CPbnxund-M8CFRaSfgodKR0BnA||3||1
+2016-10-26 10:59:16.892949||treatment||visit page||http://shop.autonationtoyotahayward.com/?wtk=000001495&gclid=CN-xmend-M8CFU6SfgodeLMMlw||1||0
+2016-10-26 10:59:25.876451||treatment||visit page||http://shop.autonationtoyotahayward.com/?wtk=000001495&gclid=CNb3yejd-M8CFUdlfgodTXwFeA||0||1
+2016-10-26 10:59:27.983049||treatment||visit page||http://www.toyota.com/configurator/?&srchid=sem%7cGOOGLE%7cBrand%7cBrand_Toyota%7cBrand_E%7cBrand%7cTcom&gclid=CKj16u_d-M8CFfMhfgodJBcDmg&gclsrc=ds||2||0
+2016-10-26 10:59:34.210529||treatment||visit page||https://www.mbusa.com/mercedes/index?&gclid=CI-Gvfnd-M8CFVFbfgodYrgEGw||3||1
+2016-10-26 10:59:47.028960||error||visiting||google searchresults||1||0
+2016-10-26 10:59:54.802039||treatment||visit page||http://www.toyota.com/configurator/?&srchid=sem%7cGOOGLE%7cBrand%7cBrand_Toyota%7cBrand_E%7cBrand%7cTcom&gclid=CPmk0YLe-M8CFQfrfgodqCsD9A&gclsrc=ds||2||0
+2016-10-26 10:59:57.991929||treatment||visit page||http://shop.autonationtoyotahayward.com/?wtk=000001495&gclid=CL2Qx4He-M8CFUtNfgodwMIJVg||0||1
+2016-10-26 11:00:04.391325||error||visiting||google searchresults||3||1
+2016-10-26 11:00:24.939432||error||visiting||google searchresults||2||0
+2016-10-26 11:00:28.181670||error||visiting||google searchresults||0||1
+2016-10-26 11:00:31.243867||treatment||visit page||http://www.toyota.com/?&srchid=sem%7cGOOGLE%7cBrand%7cBrand_Toyota%7cBrand_E%7cBrand%7cTcom&gclid=CIipipTe-M8CFQMVfwodzZYGFg&gclsrc=ds||3||1
+2016-10-26 11:00:31.892643||treatment||visit page||http://www.toyota.com/?&srchid=sem%7cGOOGLE%7cBrand%7cBrand_Toyota%7cBrand_E%7cBrand%7cTcom&gclid=CKHz3Yve-M8CFc6-fgod0TQNbQ&gclsrc=ds||1||0
+2016-10-26 11:01:01.681397||treatment||visit page||http://www.toyota.com/?&srchid=sem%7cGOOGLE%7cBrand%7cBrand_Toyota%7cBrand_E%7cBrand%7cTcom&gclid=CODMk6He-M8CFUgBfwodHlEM7g&gclsrc=ds||3||1
+2016-10-26 11:01:18.244341||treatment||visit page||http://www.toyota.com/dealers/?&srchid=sem%7cGOOGLE%7cBrand%7cBrand_Toyota%7cBrand_E%7cBrand%7cTcom&gclid=CMmC5J3e-M8CFc6-fgod0TQNbQ&gclsrc=ds||2||0
+2016-10-26 11:01:31.821248||error||visiting||google searchresults||3||1
+2016-10-26 11:01:33.870370||treatment||visit page||http://www.toyota.com/?&srchid=sem%7cGOOGLE%7cBrand%7cBrand_Toyota%7cBrand_E%7cBrand%7cTcom&gclid=CMjBw6He-M8CFQMVfwodzZYGFg&gclsrc=ds||1||0
+2016-10-26 11:01:42.633799||treatment||google search||tesla||2||0
+2016-10-26 11:01:44.460224||treatment||visit page||http://www.toyotasunnyvale.com/new-inventory/index.htm?search=Toyota&_vsrefdom=NEW&_pcids=2aeb0d49-142e-4b1d-acf5-c976c4c3e770%2c31418cd5-eef7-4df4-9b87-960a7b5cc80a%2ccf927092-da9b-6bfa-83b1-58064c545742&_pcsourceid=22e59cbd-aad7-7efa-2a77-b5441c25cd16&gclid=CPaZrp_e-M8CFQyHfgodJL8Eog||0||1
+2016-10-26 11:01:54.074479||error||visiting||google searchresults||2||0
+2016-10-26 11:02:02.104503||treatment||visit page||http://shop.autonationtoyotahayward.com/?wtk=000001495&gclid=CMrJzr3e-M8CFYlbfgod_hQF4A||3||1
+2016-10-26 11:02:03.974523||error||visiting||google searchresults||1||0
+2016-10-26 11:02:28.873175||treatment||visit page||http://www.brooksmotorcarsfremont.com/||2||0
+2016-10-26 11:02:29.120896||treatment||google search||tesla||3||1
+2016-10-26 11:02:32.864140||treatment||visit page||http://www.toyotasunnyvale.com/new-inventory/index.htm?search=Toyota&_vsrefdom=NEW&_pcids=2aeb0d49-142e-4b1d-acf5-c976c4c3e770%2c31418cd5-eef7-4df4-9b87-960a7b5cc80a%2ccf927092-da9b-6bfa-83b1-58064c545742&_pcsourceid=22e59cbd-aad7-7efa-2a77-b5441c25cd16&gclid=CIuB08Pe-M8CFUxsfgod4gUEgA||0||1
+2016-10-26 11:02:41.617169||error||visiting||google searchresults||3||1
+2016-10-26 11:02:47.118297||treatment||visit page||http://www.toyotasunnyvale.com/new-inventory/index.htm?search=Toyota&_vsrefdom=NEW&_pcids=2aeb0d49-142e-4b1d-acf5-c976c4c3e770%2c31418cd5-eef7-4df4-9b87-960a7b5cc80a%2ccf927092-da9b-6bfa-83b1-58064c545742&_pcsourceid=22e59cbd-aad7-7efa-2a77-b5441c25cd16&gclid=CPPmkM3e-M8CFYGUfgodcBcB9g||1||0
+2016-10-26 11:02:54.400787||treatment||visit page||http://www.brooksmotorcarsfremont.com/||2||0
+2016-10-26 11:03:03.133161||error||visiting||google searchresults||0||1
+2016-10-26 11:03:12.715111||treatment||google search||tesla||1||0
+2016-10-26 11:03:24.682231||error||visiting||google searchresults||2||0
+2016-10-26 11:03:25.767546||error||visiting||google searchresults||1||0
+2016-10-26 11:03:26.754670||treatment||visit page||https://shift.com/cars/san-francisco?model=Tesla--Roadster&gclid=CNS68t7e-M8CFRCbfgodFwEOUg||3||1
+2016-10-26 11:03:29.757437||treatment||visit page||http://www.toyota.com/?&srchid=sem%7cGOOGLE%7cBrand%7cBrand_Toyota%7cBrand_E%7cBrand%7cTcom&gclid=CLGzmene-M8CFeMAfwodVhoIeQ&gclsrc=ds||0||1
+2016-10-26 11:03:56.818010||error||visiting||google searchresults||3||1
+2016-10-26 11:03:58.323971||treatment||google search||tesla||0||1
+2016-10-26 11:04:01.442220||treatment||visit page||https://shift.com/cars/san-francisco?model=Tesla--Roadster&gclid=CNuBtfPe-M8CFYJmfgodlDIAww||2||0
+2016-10-26 11:04:03.693730||treatment||visit page||https://shift.com/cars/san-francisco?model=Tesla--Roadster&gclid=CNXpg_Te-M8CFcuOfgod8LwK0w||1||0
+2016-10-26 11:04:09.825905||error||visiting||google searchresults||0||1
+2016-10-26 11:04:26.838608||error||visiting||google searchresults||3||1
+2016-10-26 11:04:31.482229||error||visiting||google searchresults||2||0
+2016-10-26 11:04:33.731381||error||visiting||google searchresults||1||0
+2016-10-26 11:04:56.881397||error||visiting||google searchresults||3||1
+2016-10-26 11:05:01.511715||error||visiting||google searchresults||2||0
+2016-10-26 11:05:03.751959||error||visiting||google searchresults||1||0
+2016-10-26 11:05:26.914102||error||visiting||google searchresults||3||1
+2016-10-26 11:05:31.543705||error||visiting||google searchresults||2||0
+2016-10-26 11:05:33.780089||error||visiting||google searchresults||1||0
+2016-10-26 11:05:56.952123||error||visiting||google searchresults||3||1
+2016-10-26 11:06:01.600901||error||visiting||google searchresults||2||0
+2016-10-26 11:06:03.815759||error||visiting||google searchresults||1||0
+2016-10-26 11:06:26.984799||error||visiting||google searchresults||3||1
+2016-10-26 11:06:31.625947||error||visiting||google searchresults||2||0
+2016-10-26 11:06:33.848089||error||visiting||google searchresults||1||0
+2016-10-26 11:06:49.926855||treatment||google search||mercedes||3||1
+2016-10-26 11:07:01.678571||error||visiting||google searchresults||2||0
+2016-10-26 11:07:01.786997||error||visiting||google searchresults||3||1
+2016-10-26 11:07:03.897969||error||visiting||google searchresults||1||0
+2016-10-26 11:07:28.361517||treatment||google search||mercedes||2||0
+2016-10-26 11:07:30.505986||treatment||google search||mercedes||1||0
+2016-10-26 11:07:33.696197||treatment||visit page||http://www.mbofstevenscreek.net/showroom/index.htm?ddcref=000001495&gclid=CLnXitvf-M8CFUJrfgodOEcGAQ||3||1
+2016-10-26 11:07:38.798837||treatment||visit page||https://shift.com/cars/san-francisco?model=Tesla--Roadster&gclid=CMe6-Yjf-M8CFQx_fgodO8YDdw||0||1
+2016-10-26 11:07:41.837749||error||visiting||google searchresults||2||0
+2016-10-26 11:07:45.786676||error||visiting||google searchresults||1||0
+2016-10-26 11:08:01.122089||treatment||visit page||http://www.mbofstevenscreek.net/showroom/index.htm?ddcref=000001495&gclid=CMugk-rf-M8CFYF9fgodcFwHUw||3||1
+2016-10-26 11:08:08.841766||error||visiting||google searchresults||0||1
+2016-10-26 11:08:09.415357||treatment||visit page||http://www.mbofstevenscreek.net/showroom/index.htm?ddcref=000001495&gclid=CM6uoO7f-M8CFU5qfgodO5EFLg||2||0
+2016-10-26 11:08:12.411889||treatment||visit page||http://car.yes-fun.com/Toyota/SF_Sunnyvale_Toyota_2016ToyotaPrius_gs.html?gclid=CMirjfDf-M8CFc9gfgod0zQFiA||1||0
+2016-10-26 11:08:31.214402||error||visiting||google searchresults||3||1
+2016-10-26 11:08:34.707154||treatment||visit page||http://www.mbofstevenscreek.net/showroom/index.htm?ddcref=000001495&gclid=CPa8mPvf-M8CFRB2fgodzUQGFA||2||0
+2016-10-26 11:08:36.384767||treatment||visit page||http://car.yes-fun.com/Toyota/SF_Sunnyvale_Toyota_2016ToyotaPrius_gs.html?gclid=COLkz_zf-M8CFUpNfgodjd8BsA||1||0
+2016-10-26 11:08:38.870950||error||visiting||google searchresults||0||1
+2016-10-26 11:08:58.129546||treatment||visit page||http://www.carpricesecrets.com/mercedesbenz?x=100000&mkwid=su4RVrmHv&pcrid=137860608929&pmt=e&pkw=mercedes&pdv=c&pse=google&gclid=CNfSyoXg-M8CFUtNfgodwMIJVg&gclsrc=aw.ds||3||1
+2016-10-26 11:09:04.864899||error||visiting||google searchresults||2||0
+2016-10-26 11:09:06.537780||error||visiting||google searchresults||1||0
+2016-10-26 11:09:08.947391||error||visiting||google searchresults||0||1
+2016-10-26 11:09:24.351040||treatment||visit page||http://www.carpricesecrets.com/mercedesbenz?x=100000&mkwid=su4RVrmHv&pcrid=137860608929&pmt=e&pkw=mercedes&pdv=c&pse=google&gclid=CIvitJLg-M8CFcmOfgodvKILLw&gclsrc=aw.ds||3||1
+2016-10-26 11:09:36.078513||treatment||visit page||http://www.carpricesecrets.com/mercedesbenz?x=100000&mkwid=su4RVrmHv&pcrid=137860608929&pmt=e&pkw=mercedes&pdv=c&pse=google&gclid=CLW615Xg-M8CFQ50fgode5kOeA&gclsrc=aw.ds||2||0
+2016-10-26 11:09:37.338185||treatment||visit page||http://europeancarrepairs.com/?gclid=CK3R2Zbg-M8CFQaRfgodWHUCdA||1||0
+2016-10-26 11:09:38.991568||error||visiting||google searchresults||0||1
+2016-10-26 11:09:54.395459||error||visiting||google searchresults||3||1
+2016-10-26 11:10:03.300168||treatment||visit page||http://europeancarrepairs.com/?gclid=CJzxlaXg-M8CFdRyfgod-EsOwA||1||0
+2016-10-26 11:10:03.481211||treatment||visit page||http://www.carpricesecrets.com/mercedesbenz?x=100000&mkwid=su4RVrmHv&pcrid=137860608929&pmt=e&pkw=mercedes&pdv=c&pse=google&gclid=COjXwaTg-M8CFQWTfgodEqIHtQ&gclsrc=aw.ds||2||0
+2016-10-26 11:10:09.048863||error||visiting||google searchresults||0||1
+2016-10-26 11:10:25.410071||treatment||visit page||https://www.carmax.com/search?adcode=SEMGSACBGE105078E&pkw=mercedes&s=0&utm_source=sem_google?utm_content=sem_west_pacific&utm_term=mercedes&iv_=__iv_p_1_a_300434564_g_21512236604_w_kwd-16822931_h_9031936_ii__d_c_v__n_g_c_101595082484_k_mercedes_m_e_l__t__e__r_1t3_vi__&gclid=CPaToK3g-M8CFUtNfgodwMIJVg#Distance=All&FreeText=mercedes&Refinements=4294966961&Zip=94085||3||1
+2016-10-26 11:10:33.435836||error||visiting||google searchresults||1||0
+2016-10-26 11:10:33.608317||error||visiting||google searchresults||2||0
+2016-10-26 11:10:39.074689||error||visiting||google searchresults||0||1
+2016-10-26 11:11:06.793321||treatment||visit page||https://www.truecar.com/?srtid=paid&srcID=google&cmID=Make+-+Mercedes+Mercedes&crid=BUiZU6BhyI9nD7PXZUbbnA%3D%3D|70557237381&mobile=&device=c&aceid=&adpos=1t3&random=9207219153539927684&keyword=mercedes&matchtype=e&content=&search=1&network=g&target=&placement=&utm_medium=ppc&utm_source=google&utm_term=mercedes&utm_campaign=Make+-+Mercedes+Mercedes&devicemodel=&param1=&param2=&gclid=CKS2ksDg-M8CFYqEfgodmNUA8w#/||2||0
+2016-10-26 11:11:17.244482||treatment||google search||mercedes||0||1
+2016-10-26 11:11:28.757390||error||visiting||google searchresults||0||1
+2016-10-26 11:11:33.408630||treatment||visit page||https://www.carmax.com/search?adcode=SEMGSACBGE105078E&pkw=mercedes&s=0&utm_source=sem_google?utm_content=sem_west_pacific&utm_term=mercedes&iv_=__iv_p_1_a_300434564_g_21512236604_w_kwd-16822931_h_9031936_ii__d_c_v__n_g_c_101595082484_k_mercedes_m_e_l__t__e__r_1t3_vi__&gclid=CMzw9b_g-M8CFZKGfgodZTANrg#Distance=All&FreeText=mercedes&Refinements=4294966961&Zip=94085||1||0
+2016-10-26 11:11:37.143278||treatment||read news||http://www.cnn.com/2016/10/26/middleeast/mosul-offensive-women-escaped-isis/||3||1
+2016-10-26 11:12:02.588691||treatment||visit page||http://europeancarrepairs.com/?gclid=CLmqwdrg-M8CFYF6fgodgpIJig||0||1
+2016-10-26 11:12:07.345419||treatment||read news||http://www.cnn.com/2016/10/26/middleeast/mosul-offensive-women-escaped-isis/||2||0
+2016-10-26 11:12:32.756734||treatment||read news||http://www.cnn.com/2016/10/25/politics/donald-trump-obama-election/||3||1
+2016-10-26 11:12:33.737708||treatment||visit page||http://europeancarrepairs.com/?gclid=CIKoxurg-M8CFZFufgodBUEMiw||0||1
+2016-10-26 11:12:49.574028||treatment||read news||http://www.cnn.com/2016/10/26/middleeast/mosul-offensive-women-escaped-isis/||1||0
+2016-10-26 11:12:55.989886||treatment||read news||http://www.cnn.com/2016/10/25/politics/donald-trump-obama-election/||2||0
+2016-10-26 11:13:03.840501||error||visiting||google searchresults||0||1
+2016-10-26 11:13:32.300190||treatment||read news||http://www.cnn.com/2016/10/26/health/astronaut-back-pain-spine-health-space/||3||1
+2016-10-26 11:13:51.362917||treatment||read news||http://www.cnn.com/2016/10/25/politics/donald-trump-obama-election/||1||0
+2016-10-26 11:14:11.970573||treatment||visit page||https://www.carmax.com/search?adcode=SEMGSACBGE105078E&pkw=mercedes&s=0&utm_source=sem_google?utm_content=sem_west_pacific&utm_term=mercedes&iv_=__iv_p_1_a_300434564_g_21512236604_w_kwd-16822931_h_9031936_ii__d_c_v__n_g_c_101595082484_k_mercedes_m_e_l__t__e__r_1t2_vi__&gclid=CICe6Yfh-M8CFYJnfgodriwIXA#Distance=All&FreeText=mercedes&Refinements=4294966961&Zip=94085||0||1
+2016-10-26 11:14:20.143750||treatment||read news||http://www.cnn.com/2016/10/26/health/astronaut-back-pain-spine-health-space/||2||0
+2016-10-26 11:14:58.059219||treatment||visit page||https://www.carmax.com/cars/mercedes-benz/c250/2014/13614155||0||1
+2016-10-26 11:15:03.810300||treatment||read news||http://www.cnn.com/2016/10/26/health/astronaut-back-pain-spine-health-space/||1||0
+2016-10-26 11:15:10.240449||treatment||read news||http://www.cnn.com/2016/10/26/politics/election-2016-obamacare-future-hillary-clinton-donald-trump/||3||1
+2016-10-26 11:15:45.065455||error||visiting||google searchresults||0||1
+2016-10-26 11:15:58.382986||treatment||read news||http://www.cnn.com/2016/10/26/politics/election-2016-obamacare-future-hillary-clinton-donald-trump/||2||0
+2016-10-26 11:16:07.523579||treatment||read news||http://www.cnn.com/2016/10/25/health/parents-children-autism-symptoms/||3||1
+2016-10-26 11:16:10.580577||event||progress-marker||training-end||3||1
+2016-10-26 11:16:21.307951||treatment||visit page||https://www.carmax.com/cars/mercedes-benz/c250/2013/13619070||0||1
+2016-10-26 11:16:29.333689||treatment||read news||http://www.cnn.com/2016/10/26/politics/election-2016-obamacare-future-hillary-clinton-donald-trump/||1||0
+2016-10-26 11:16:51.069575||treatment||read news||http://www.cnn.com/2016/10/25/health/parents-children-autism-symptoms/||2||0
+2016-10-26 11:16:59.989792||event||progress-marker||training-end||2||0
+2016-10-26 11:17:28.906076||treatment||read news||http://www.cnn.com/2016/10/25/health/parents-children-autism-symptoms/||1||0
+2016-10-26 11:17:30.404099||event||progress-marker||training-end||1||0
+2016-10-26 11:17:33.229847||treatment||read news||http://www.cnn.com/2016/10/26/middleeast/mosul-offensive-women-escaped-isis/||0||1
+2016-10-26 11:17:54.813761||treatment||read news||http://www.cnn.com/2016/10/25/politics/donald-trump-obama-election/||0||1
+2016-10-26 11:18:30.301474||treatment||read news||http://www.cnn.com/2016/10/26/health/astronaut-back-pain-spine-health-space/||0||1
+2016-10-26 11:19:07.116949||treatment||read news||http://www.cnn.com/2016/10/26/politics/election-2016-obamacare-future-hillary-clinton-donald-trump/||0||1
+2016-10-26 11:19:30.470728||treatment||read news||http://www.cnn.com/2016/10/25/health/parents-children-autism-symptoms/||0||1
+2016-10-26 11:19:30.959681||event||progress-marker||training-end||0||1
+2016-10-26 11:19:35.182928||event||progress-marker||measurement-start||2||0
+2016-10-26 11:19:35.542109||event||progress-marker||measurement-start||1||0
+2016-10-26 11:19:35.842391||event||progress-marker||measurement-start||3||1
+2016-10-26 11:19:35.966305||event||progress-marker||measurement-start||0||1
+2016-10-26 11:20:17.356943||measurement||ad||2016-10-26 11:20:13.561877@|Four Seasons Resorts@|@|Explore The World's Most Captivating People  Places ||1||0
+2016-10-26 11:20:17.362409||measurement||loadtime||0:00:36.814964||1||0
+2016-10-26 11:20:17.772482||measurement||ad||2016-10-26 11:20:16.153708@|British Expat in the USA?@|www.forthcapital.com/PensionAdvice@|Avoid Losing 45% of your UK pension Move your pension. Free Guide!||3||1
+2016-10-26 11:20:18.137042||measurement||ad||2016-10-26 11:20:16.153708@|"Canon vs Nikon:"@|uglyhedgehog.com@|Which is better? Here is the truth one of them doesnt want you to know||3||1
+2016-10-26 11:20:18.950993||measurement||ad||2016-10-26 11:20:16.153708@|Cheap High Speed Internet@|shoppermart.net@|Top 7 Cheap High Speed Internet! Huge saving Today! Compare.||3||1
+2016-10-26 11:20:18.951438||measurement||loadtime||0:00:38.103776||3||1
+2016-10-26 11:20:22.070025||measurement||ad||2016-10-26 11:20:21.312644@|Instant Grammar Checker@|grammarly.com@|Grammarly Makes Sure Everything You Type Is Effective And Mistake-Free. Try Now! ||2||0
+2016-10-26 11:20:23.089614||measurement||ad||2016-10-26 11:20:21.312644@|Online LL.M in 1 Year@|college.ch@|Online LL.M in International Business Law in 1 Year. No bachelor required. Learn more! ||2||0
+2016-10-26 11:20:23.319337||measurement||ad||2016-10-26 11:20:21.312644@|Franchises Under $10,000@|franchisehelp.com/Opportunity@|Franchises Are Expanding Near You! Starting Under $10,000 - Learn More||2||0
+2016-10-26 11:20:23.319718||measurement||loadtime||0:00:43.131670||2||0
+2016-10-26 11:20:41.247011||error||collecting ads||Error||0||1
+2016-10-26 11:20:48.746132||measurement||ad||2016-10-26 11:20:47.658751@|British Expat in the USA?@|www.forthcapital.com/PensionAdvice@|Avoid Losing 45% of your UK pension Move your pension. Free Guide!||1||0
+2016-10-26 11:20:49.583170||measurement||ad||2016-10-26 11:20:47.658751@|Vehicles Lease Bad Credit@|www.carleasingsecrets.com@|$160 per month. No-money down. Early lease termination options.||1||0
+2016-10-26 11:20:49.963312||measurement||ad||2016-10-26 11:20:47.390597@|Hefty®'s Ultimate™ Cups@|Purchase Hefty® Cups And Party On!@|Save $1 Off Hefty®'s Ultimate™ Cups ||3||1
+2016-10-26 11:20:49.963597||measurement||loadtime||0:00:26.009568||3||1
+2016-10-26 11:20:50.353029||measurement||ad||2016-10-26 11:20:47.658751@|Retire in the U.K@|www.internationalliving.com@|Free Report for people considering Retiring in the United Kindgom||1||0
+2016-10-26 11:20:50.353644||measurement||loadtime||0:00:27.986998||1||0
+2016-10-26 11:20:54.362668||measurement||ad||2016-10-26 11:20:53.871481@|Instant Grammar Checker@|grammarly.com@|Grammarly Makes Sure Everything You Type Is Effective And Mistake-Free. Try Now! ||2||0
+2016-10-26 11:20:54.528982||measurement||ad||2016-10-26 11:20:53.871481@|8th Grade Test From 1912@|historyhole.com@|Only 2% Have Passed. Can You? ||2||0
+2016-10-26 11:20:54.738864||measurement||ad||2016-10-26 11:20:53.871481@|Online LL.M in 1 Year@|college.ch@|Online LL.M in International Business Law in 1 Year. No bachelor required. Learn more! ||2||0
+2016-10-26 11:20:54.739241||measurement||loadtime||0:00:26.414386||2||0
+2016-10-26 11:21:14.243439||measurement||ad||2016-10-26 11:20:52.513241@|6 Stocks to Hold Forever@|wealthyretirement.com/PreferredStocks@|Looking to retire? These 6 stocks will generate regular income. ||0||1
+2016-10-26 11:21:14.743439||measurement||ad||2016-10-26 11:20:52.513241@|8% Annual Annuity Return@|advisorworld.com/CompareAnnuities@|Get guaranteed lifetime income and reduced risks to retirees all here.||0||1
+2016-10-26 11:21:15.811626||measurement||ad||2016-10-26 11:20:52.513241@|Instant Grammar Checker@|www.grammarly.com@|Grammarly Makes Sure Everything You Type Is Effective And Mistake-Free. Try Now! ||0||1
+2016-10-26 11:21:15.812146||measurement||loadtime||0:00:29.560227||0||1
+2016-10-26 11:21:18.293698||measurement||ad||2016-10-26 11:21:17.187049@|"Canon vs Nikon:"@|uglyhedgehog.com@|Did you know about this one camera setting that ruins your pictures?||1||0
+2016-10-26 11:21:18.998754||measurement||ad||2016-10-26 11:21:17.187049@|British Expat in the USA?@|www.forthcapital.com/PensionAdvice@|Avoid Losing 45% of your UK pension Move your pension. Free Guide!||1||0
+2016-10-26 11:21:20.371682||measurement||ad||2016-10-26 11:21:17.187049@|"Fix Windows® Update"@|wiki-errors.com@|(Recommended DLL Repair Tool) Follow These Simple Instructions!||1||0
+2016-10-26 11:21:20.376784||measurement||loadtime||0:00:25.016236||1||0
+2016-10-26 11:21:23.579561||measurement||ad||2016-10-26 11:21:19.257177@|British Expat in the USA?@|www.forthcapital.com/PensionAdvice@|Avoid Losing 45% of your UK pension Move your pension. Free Guide!||2||0
+2016-10-26 11:21:25.131346||measurement||ad||2016-10-26 11:21:19.257177@|Free Business Listings@|www.adsolutions.yp.com/FreeListing@|Unlimited Marketing Potential. Promote Your Business For Free!||2||0
+2016-10-26 11:21:26.575025||measurement||ad||2016-10-26 11:21:19.257177@|Retirement Age Calculator@|www.myretirementdate.com@|Find Out How Soon You Can Retire With Our Free Online Assessment.||2||0
+2016-10-26 11:21:26.578741||measurement||loadtime||0:00:26.835667||2||0
+2016-10-26 11:21:45.094773||measurement||ad||2016-10-26 11:21:43.967180@|New Hefty® Save $1 Now@|With Arm  Hammer™ Odor Neutralizer@|Hefty's Best Trash Bag Ever ||3||1
+2016-10-26 11:21:45.095022||measurement||loadtime||0:00:50.124634||3||1
+2016-10-26 11:21:53.186655||measurement||ad||2016-10-26 11:21:50.689993@|"Canon vs Nikon:"@|uglyhedgehog.com@|Did you know about this one camera setting that ruins your pictures?||0||1
+2016-10-26 11:21:54.461501||measurement||ad||2016-10-26 11:21:50.689993@|"Fix Windows® Update"@|wiki-errors.com@|(Recommended DLL Repair Tool) Follow These Simple Instructions!||0||1
+2016-10-26 11:21:55.268503||measurement||ad||2016-10-26 11:21:50.689993@|Tracking A Cell Phone@|comparemarts.com/tracking-a-phone@|Tracking A Cell Phone Is Easy. Search  Find More Details.||0||1
+2016-10-26 11:21:55.268608||measurement||loadtime||0:00:34.454797||0||1
+2016-10-26 11:21:58.649673||measurement||ad||2016-10-26 11:21:54.620960@|British Expat in the USA?@|www.forthcapital.com/PensionAdvice@|Avoid Losing 45% of your UK pension Move your pension. Free Guide!||1||0
+2016-10-26 11:21:58.817628||measurement||ad||2016-10-26 11:21:54.620960@|Instant Grammar Checker@|grammarly.com@|Grammarly Makes Sure Everything You Type Is Effective And Mistake-Free. Try Now! ||1||0
+2016-10-26 11:22:00.048459||measurement||ad||2016-10-26 11:21:54.620960@|Online LL.M in 1 Year@|college.ch@|Online LL.M in International Business Law in 1 Year. No bachelor required. Learn more! ||1||0
+2016-10-26 11:22:00.049993||measurement||loadtime||0:00:34.668250||1||0
+2016-10-26 11:22:01.107109||measurement||ad||2016-10-26 11:21:58.790004@|British Expat in the USA?@|www.forthcapital.com/PensionAdvice@|Avoid Losing 45% of your UK pension Move your pension. Free Guide!||2||0
+2016-10-26 11:22:01.335178||measurement||ad||2016-10-26 11:21:58.790004@|Free Business Listings@|www.adsolutions.yp.com/FreeListing@|Unlimited Marketing Potential. Promote Your Business For Free!||2||0
+2016-10-26 11:22:01.706528||measurement||ad||2016-10-26 11:21:58.790004@|Retirement Age Calculator@|www.myretirementdate.com@|Find Out How Soon You Can Retire With Our Free Online Assessment.||2||0
+2016-10-26 11:22:01.706808||measurement||loadtime||0:00:30.120872||2||0
+2016-10-26 11:22:16.787295||measurement||ad||2016-10-26 11:22:15.461116@|New Hefty® Save $1 Now@|With Arm  Hammer™ Odor Neutralizer@|Hefty's Best Trash Bag Ever ||3||1
+2016-10-26 11:22:16.787650||measurement||loadtime||0:00:26.688787||3||1
+2016-10-26 11:22:22.700770||measurement||ad||2016-10-26 11:22:20.757709@|New Hefty® Save $1 Now@|With Arm  Hammer™ Odor Neutralizer@|Hefty's Best Trash Bag Ever ||0||1
+2016-10-26 11:22:22.701055||measurement||loadtime||0:00:22.426926||0||1
+2016-10-26 11:22:28.049939||measurement||ad||2016-10-26 11:22:25.806818@|British Expat in the USA?@|www.forthcapital.com/PensionAdvice@|Avoid Losing 45% of your UK pension Move your pension. Free Guide!||2||0
+2016-10-26 11:22:28.542131||measurement||ad||2016-10-26 11:22:25.806818@|"Canon vs Nikon:"@|uglyhedgehog.com@|Did you know about this one camera setting that ruins your pictures?||2||0
+2016-10-26 11:22:28.838745||measurement||ad||2016-10-26 11:22:25.806818@|Franchises Under $10,000@|franchisehelp.com/Opportunity@|Franchises Are Expanding Near You! Starting Under $10,000 - Learn More||2||0
+2016-10-26 11:22:28.839187||measurement||loadtime||0:00:22.120262||2||0
+2016-10-26 11:22:29.590818||measurement||ad||2016-10-26 11:22:28.921672@|British Expat in the USA?@|www.forthcapital.com/PensionAdvice@|Avoid Losing 45% of your UK pension Move your pension. Free Guide!||1||0
+2016-10-26 11:22:30.103840||measurement||ad||2016-10-26 11:22:28.921672@|Retire in the U.K@|www.internationalliving.com@|Free Report for people considering Retiring in the United Kindgom||1||0
+2016-10-26 11:22:30.358053||measurement||ad||2016-10-26 11:22:28.921672@|Vehicles Lease Bad Credit@|www.carleasingsecrets.com@|$160 per month. No-money down. Early lease termination options.||1||0
+2016-10-26 11:22:30.358276||measurement||loadtime||0:00:25.304398||1||0
+2016-10-26 11:22:37.332550||error||block timeout||Error||0||1
+2016-10-26 11:22:37.332819||error||collecting ads||Error||1||0
+2016-10-26 11:22:37.335959||error||block timeout||Error||0||2
+2016-10-26 11:22:37.336175||error||collecting ads||Error||2||0
+2016-10-26 11:22:37.339407||error||block timeout||Error||1||3
+2016-10-26 11:22:37.339686||error||collecting ads||Error||3||1
+2016-10-26 11:22:37.341949||error||block timeout||Error||1||0
+2016-10-26 11:22:37.342107||error||collecting ads||Error||0||1
+2016-10-26 11:22:42.338194||error||collecting ads||Error||1||0
+2016-10-26 11:22:42.344068||error||collecting ads||Error||3||1
+2016-10-26 11:22:42.344353||error||collecting ads||Error||2||0
+2016-10-26 11:22:42.349556||error||collecting ads||Error||0||1
+2016-10-26 11:23:15.655750||measurement||ad||2016-10-26 11:23:12.765707@|New Hefty® Save $1 Now@|With Arm  Hammer™ Odor Neutralizer@|Hefty's Best Trash Bag Ever ||3||1
+2016-10-26 11:23:15.655971||measurement||loadtime||0:00:28.302796||3||1
+2016-10-26 11:23:16.635468||measurement||ad||2016-10-26 11:23:15.810564@|6 Stocks to Hold Forever@|wealthyretirement.com/PreferredStocks@|Looking to retire? These 6 stocks will generate regular income. ||0||1
+2016-10-26 11:23:17.116516||measurement||ad||2016-10-26 11:23:15.810564@|8% Annual Annuity Return@|advisorworld.com/CompareAnnuities@|Get guaranteed lifetime income and reduced risks to retirees all here.||0||1
+2016-10-26 11:23:17.441944||measurement||ad||2016-10-26 11:23:15.810564@|Instant Grammar Checker@|www.grammarly.com@|Grammarly Makes Sure Everything You Type Is Effective And Mistake-Free. Try Now! ||0||1
+2016-10-26 11:23:17.442264||measurement||loadtime||0:00:30.087657||0||1
+2016-10-26 11:23:18.526204||measurement||ad||2016-10-26 11:22:53.685761@|British Expat in the USA?@|www.forthcapital.com/PensionAdvice@|Avoid Losing 45% of your UK pension Move your pension. Free Guide!||2||0
+2016-10-26 11:23:19.168728||measurement||ad||2016-10-26 11:22:53.685761@|Retirement Age Calculator@|www.myretirementdate.com@|Find Out How Soon You Can Retire With Our Free Online Assessment.||2||0
+2016-10-26 11:23:20.214496||measurement||ad||2016-10-26 11:22:53.685761@|Free Business Listings@|www.adsolutions.yp.com/FreeListing@|Unlimited Marketing Potential. Promote Your Business For Free!||2||0
+2016-10-26 11:23:20.214956||measurement||loadtime||0:00:32.861865||2||0
+2016-10-26 11:23:29.648495||measurement||ad||2016-10-26 11:23:24.852997@|New Hefty® Save $1 Now@|With Arm  Hammer™ Odor Neutralizer@|Hefty's Best Trash Bag Ever ||1||0
+2016-10-26 11:23:29.648764||measurement||loadtime||0:00:42.303971||1||0
+2016-10-26 11:23:45.823093||measurement||ad||2016-10-26 11:23:42.236146@|British Expat in the USA?@|www.forthcapital.com/PensionAdvice@|Avoid Losing 45% of your UK pension Move your pension. Free Guide!||3||1
+2016-10-26 11:23:46.396121||measurement||ad||2016-10-26 11:23:42.236146@|Masters of Laws Degree@|college.ch/catalogue@|Online LLM degree in 1 Year. No LLB required. Get more information!||3||1
+2016-10-26 11:23:46.694811||measurement||ad||2016-10-26 11:23:42.236146@|8% Annual Annuity Return@|advisorworld.com/CompareAnnuities@|Get guaranteed lifetime income and reduced risks to retirees all here.||3||1
+2016-10-26 11:23:46.695670||measurement||loadtime||0:00:26.037722||3||1
+2016-10-26 11:23:52.769688||measurement||ad||2016-10-26 11:23:50.272744@|6 Stocks to Hold Forever@|wealthyretirement.com/PreferredStocks@|Looking to retire? These 6 stocks will generate regular income. ||0||1
+2016-10-26 11:23:53.864455||measurement||ad||2016-10-26 11:23:50.272744@|8% Annual Annuity Return@|advisorworld.com/CompareAnnuities@|Get guaranteed lifetime income and reduced risks to retirees all here.||0||1
+2016-10-26 11:23:54.286625||measurement||ad||2016-10-26 11:23:50.272744@|10 Best Credit Card Deals@|cardratings.com@|Find a Credit Card That Works For You; Get 0% APR, 2x Cash Back or 50k Bonus Points. ||0||1
+2016-10-26 11:23:54.287074||measurement||loadtime||0:00:31.837531||0||1
+2016-10-26 11:23:54.318463||measurement||ad||2016-10-26 11:23:52.650380@|British Expat in the USA?@|www.forthcapital.com/PensionAdvice@|Avoid Losing 45% of your UK pension Move your pension. Free Guide!||2||0
+2016-10-26 11:23:54.958240||measurement||ad||2016-10-26 11:23:52.650380@|Free Business Listings@|www.adsolutions.yp.com/FreeListing@|Unlimited Marketing Potential. Promote Your Business For Free!||2||0
+2016-10-26 11:23:55.550472||measurement||ad||2016-10-26 11:23:52.650380@|Our next big bankruptcy?@|www.thecrux.com@|Guess who's about to go bankrupt in America--shocking answer here.||2||0
+2016-10-26 11:23:55.550641||measurement||loadtime||0:00:30.330917||2||0
+2016-10-26 11:24:01.661848||measurement||ad||2016-10-26 11:23:59.070470@|British Expat in the USA?@|www.forthcapital.com/PensionAdvice@|Avoid Losing 45% of your UK pension Move your pension. Free Guide!||1||0
+2016-10-26 11:24:02.316059||measurement||ad||2016-10-26 11:23:59.070470@|Vehicles Lease Bad Credit@|www.carleasingsecrets.com@|$160 per month. No-money down. Early lease termination options.||1||0
+2016-10-26 11:24:03.367408||measurement||ad||2016-10-26 11:23:59.070470@|Retire in the U.K@|www.internationalliving.com@|Free Report for people considering Retiring in the United Kindgom||1||0
+2016-10-26 11:24:03.369160||measurement||loadtime||0:00:28.714219||1||0
+2016-10-26 11:24:21.292422||measurement||ad||2016-10-26 11:24:19.979493@|Hefty®'s Ultimate™ Cups@|Purchase Hefty® Cups And Party On!@|Save $1 Off Hefty®'s Ultimate™ Cups ||3||1
+2016-10-26 11:24:21.292660||measurement||loadtime||0:00:29.594061||3||1
+2016-10-26 11:24:21.938157||measurement||ad||2016-10-26 11:24:21.208244@|British Expat in the USA?@|www.forthcapital.com/PensionAdvice@|Avoid Losing 45% of your UK pension Move your pension. Free Guide!||2||0
+2016-10-26 11:24:22.177588||measurement||ad||2016-10-26 11:24:21.208244@|"Canon vs Nikon:"@|uglyhedgehog.com@|Did you know about this one camera setting that ruins your pictures?||2||0
+2016-10-26 11:24:22.457485||measurement||ad||2016-10-26 11:24:21.208244@|Franchises Under $10,000@|franchisehelp.com/Opportunity@|Franchises Are Expanding Near You! Starting Under $10,000 - Learn More||2||0
+2016-10-26 11:24:22.457841||measurement||loadtime||0:00:21.897623||2||0
+2016-10-26 11:24:22.457939||event||progress-marker||measurement-end||2||0
+2016-10-26 11:24:26.827549||measurement||ad||2016-10-26 11:24:24.692696@|New Hefty® Save $1 Now@|With Arm  Hammer™ Odor Neutralizer@|Hefty's Best Trash Bag Ever ||0||1
+2016-10-26 11:24:26.827727||measurement||loadtime||0:00:27.536334||0||1
+2016-10-26 11:24:32.056801||measurement||ad||2016-10-26 11:24:31.204890@|British Expat in the USA?@|www.forthcapital.com/PensionAdvice@|Avoid Losing 45% of your UK pension Move your pension. Free Guide!||1||0
+2016-10-26 11:24:32.429882||measurement||ad||2016-10-26 11:24:31.204890@|Instant Grammar Checker@|grammarly.com@|Grammarly Makes Sure Everything You Type Is Effective And Mistake-Free. Try Now! ||1||0
+2016-10-26 11:24:32.718000||measurement||ad||2016-10-26 11:24:31.204890@|Online LL.M in 1 Year@|college.ch@|Online LL.M in International Business Law in 1 Year. No bachelor required. Learn more! ||1||0
+2016-10-26 11:24:32.718303||measurement||loadtime||0:00:24.340652||1||0
+2016-10-26 11:24:32.718370||event||progress-marker||measurement-end||1||0
+2016-10-26 11:24:41.976628||measurement||ad||2016-10-26 11:24:41.454254@|Hefty®'s Ultimate™ Cups@|Purchase Hefty® Cups And Party On!@|Save $1 Off Hefty®'s Ultimate™ Cups ||3||1
+2016-10-26 11:24:41.976845||measurement||loadtime||0:00:15.679198||3||1
+2016-10-26 11:24:41.976910||event||progress-marker||measurement-end||3||1
+2016-10-26 11:24:44.278713||measurement||ad||2016-10-26 11:24:43.232226@|New Hefty® Save $1 Now@|With Arm  Hammer™ Odor Neutralizer@|Hefty's Best Trash Bag Ever ||0||1
+2016-10-26 11:24:44.278883||measurement||loadtime||0:00:12.443995||0||1
+2016-10-26 11:24:44.278957||event||progress-marker||measurement-end||0||1
+2016-10-26 06:20:39.716377||meta||block_id end||19

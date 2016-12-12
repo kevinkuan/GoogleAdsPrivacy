@@ -1,0 +1,828 @@
+2016-12-11 15:53:23.544412||meta||agents||4
+2016-12-11 15:53:23.544439||meta||treatnames||control@|experimental
+2016-12-11 15:53:23.544802||meta||block_id start||0
+2016-12-11 15:53:23.544816||meta||assignment||0@|1@|3@|2
+2016-12-11 15:53:31.551605||event||progress-marker||training-start||2||1
+2016-12-11 15:53:32.003003||event||progress-marker||training-start||0||0
+2016-12-11 15:53:32.055961||event||progress-marker||training-start||1||0
+2016-12-11 15:53:32.060640||event||progress-marker||training-start||3||1
+2016-12-11 15:54:12.557360||error||website timeout||http://lucianne.com||0||0
+2016-12-11 15:54:16.358285||error||website timeout||http://lucianne.com||1||0
+2016-12-11 15:54:18.688162||error||website timeout||http://univision.com||3||1
+2016-12-11 15:54:19.105850||error||website timeout||http://univision.com||2||1
+2016-12-11 15:54:19.121305||treatment||visit website||http://marymaxim.com||0||0
+2016-12-11 15:54:25.755640||treatment||visit website||http://marymaxim.com||1||0
+2016-12-11 15:54:34.784737||treatment||visit website||http://google.com.mx||3||1
+2016-12-11 15:54:35.872547||treatment||visit website||http://thrivent.com||0||0
+2016-12-11 15:54:35.910417||treatment||visit website||http://google.com.mx||2||1
+2016-12-11 15:54:42.311711||treatment||visit website||http://misabueso.com||3||1
+2016-12-11 15:54:43.020519||treatment||visit website||http://misabueso.com||2||1
+2016-12-11 15:54:43.604830||treatment||visit website||http://tractorshed.com||0||0
+2016-12-11 15:54:53.566040||treatment||visit website||http://thrivent.com||1||0
+2016-12-11 15:55:00.015760||treatment||visit website||http://tractorshed.com||1||0
+2016-12-11 15:55:00.309433||treatment||visit website||http://lapatilla.com||3||1
+2016-12-11 15:55:00.458366||treatment||visit website||http://lapatilla.com||2||1
+2016-12-11 15:55:20.591258||treatment||visit website||http://badoo.com||3||1
+2016-12-11 15:55:58.168824||error||website timeout||http://pressrepublican.com||0||0
+2016-12-11 15:56:05.960238||treatment||visit website||http://google.es||3||1
+2016-12-11 15:56:26.360773||error||website timeout||http://pressrepublican.com||1||0
+2016-12-11 15:56:28.067892||treatment||visit website||http://thesunchronicle.com||0||0
+2016-12-11 15:56:53.328780||treatment||visit website||http://auburnpub.com||0||0
+2016-12-11 15:56:59.611045||error||website timeout||http://lan.com||3||1
+2016-12-11 15:57:02.824621||treatment||visit website||http://badoo.com||2||1
+2016-12-11 15:57:08.293557||treatment||visit website||http://e-travel.com||3||1
+2016-12-11 15:57:11.583866||treatment||visit website||http://thesunchronicle.com||1||0
+2016-12-11 15:57:27.884738||treatment||visit website||http://google.es||2||1
+2016-12-11 15:57:33.184613||treatment||visit website||http://allears.net||0||0
+2016-12-11 15:57:34.891834||treatment||visit website||http://lan.com||2||1
+2016-12-11 15:57:43.043610||treatment||visit website||http://auburnpub.com||1||0
+2016-12-11 15:57:53.360584||treatment||visit website||http://northcountrynow.com||0||0
+2016-12-11 15:58:07.458738||treatment||visit website||http://allears.net||1||0
+2016-12-11 15:58:09.097027||treatment||visit website||http://duluthnewstribune.com||0||0
+2016-12-11 15:58:29.048136||error||website timeout||http://taringa.net||3||1
+2016-12-11 15:58:52.131845||treatment||visit website||http://northcountrynow.com||1||0
+2016-12-11 15:59:26.115604||treatment||visit website||http://horoscopo.com||3||1
+2016-12-11 15:59:36.975790||error||website timeout||http://duluthnewstribune.com||1||0
+2016-12-11 15:59:49.448448||treatment||visit website||http://singingnews.com||1||0
+2016-12-11 16:00:01.750882||treatment||visit website||http://e-travel.com||2||1
+2016-12-11 16:00:19.604887||treatment||visit website||http://thevillages.com||1||0
+2016-12-11 16:00:30.782723||treatment||visit website||http://singingnews.com||0||0
+2016-12-11 16:01:09.916032||error||website timeout||http://taringa.net||2||1
+2016-12-11 16:01:25.992572||treatment||visit website||http://elpasotimes.com||3||1
+2016-12-11 16:01:37.836109||error||website timeout||http://wsaw.com||1||0
+2016-12-11 16:01:49.553173||treatment||visit website||http://thevillages.com||0||0
+2016-12-11 16:02:00.031919||treatment||visit website||http://patriotupdate.com||1||0
+2016-12-11 16:02:35.878032||error||website timeout||http://wsaw.com||0||0
+2016-12-11 16:02:36.430725||treatment||visit website||http://horoscopo.com||2||1
+2016-12-11 16:02:59.143426||treatment||visit website||http://patriotupdate.com||0||0
+2016-12-11 16:03:25.797490||treatment||visit website||http://yesterdaystractors.com||0||0
+2016-12-11 16:03:46.703969||treatment||visit website||http://fotolog.com||3||1
+2016-12-11 16:03:53.094649||treatment||visit website||http://yesterdaystractors.com||1||0
+2016-12-11 16:04:23.271935||treatment||visit website||http://elpasotimes.com||2||1
+2016-12-11 16:04:25.087460||error||website timeout||http://postbulletin.com||0||0
+2016-12-11 16:04:47.680419||treatment||visit website||http://wdio.com||0||0
+2016-12-11 16:05:06.384800||error||website timeout||http://postbulletin.com||1||0
+2016-12-11 16:05:08.017922||error||website timeout||http://valleycentral.com||3||1
+2016-12-11 16:05:28.611935||treatment||visit website||http://wbng.com||0||0
+2016-12-11 16:05:30.028484||treatment||visit website||http://miamidade.gov||3||1
+2016-12-11 16:05:30.968453||treatment||visit website||http://wdio.com||1||0
+2016-12-11 16:05:57.603863||treatment||visit website||http://blazersedge.com||3||1
+2016-12-11 16:05:58.701081||treatment||visit website||http://geisinger.org||0||0
+2016-12-11 16:57:55.414675||treatment||visit website||http://kvia.com||3||1
+2016-12-11 16:57:56.840576||treatment||visit website||http://wbng.com||1||0
+2016-12-11 16:58:06.605303||treatment||visit website||http://fotolog.com||2||1
+2016-12-11 16:58:15.019053||treatment||visit website||http://geisinger.org||1||0
+2016-12-11 16:58:29.243003||error||website timeout||http://theanimalrescuesite.com||0||0
+2016-12-11 16:58:29.247184||event||progress-marker||training-end||0||0
+2016-12-11 16:58:29.382450||treatment||visit website||http://valleycentral.com||2||1
+2016-12-11 16:59:03.945277||treatment||visit website||http://latina.com||3||1
+2016-12-11 16:59:05.459079||error||website timeout||http://theanimalrescuesite.com||1||0
+2016-12-11 16:59:05.463074||event||progress-marker||training-end||1||0
+2016-12-11 16:59:21.392894||treatment||visit website||http://miamidade.gov||2||1
+2016-12-11 16:59:25.934298||treatment||visit website||http://ssfcu.org||3||1
+2016-12-11 16:59:39.753458||treatment||visit website||http://blazersedge.com||2||1
+2016-12-11 16:59:53.953544||treatment||visit website||http://kvia.com||2||1
+2016-12-11 17:00:14.996157||error||website timeout||http://elgenero.com||3||1
+2016-12-11 17:00:28.060165||treatment||visit website||http://recycler.com||3||1
+2016-12-11 17:00:28.061139||event||progress-marker||training-end||3||1
+2016-12-11 17:00:31.138771||treatment||visit website||http://latina.com||2||1
+2016-12-11 17:00:49.329985||treatment||visit website||http://ssfcu.org||2||1
+2016-12-11 17:01:14.452926||treatment||visit website||http://elgenero.com||2||1
+2016-12-11 17:01:28.903764||treatment||visit website||http://recycler.com||2||1
+2016-12-11 17:01:28.904401||event||progress-marker||training-end||2||1
+2016-12-11 17:01:29.460036||event||progress-marker||measurement-start||0||0
+2016-12-11 17:01:30.635277||event||progress-marker||measurement-start||1||0
+2016-12-11 17:01:33.130192||event||progress-marker||measurement-start||3||1
+2016-12-11 17:01:33.910603||event||progress-marker||measurement-start||2||1
+2016-12-11 17:02:17.485539||measurement||ad||2016-12-11 17:02:14.245605@|Lyft™ $1000 Driver Bonus@|lyft.com@|Earn Tips  Make Up To $35/Hour Driving with Lyft. Limited Time Offer - Apply Now! ||3||1
+2016-12-11 17:02:17.919181||measurement||ad||2016-12-11 17:02:07.100335@|2.7% Fixed Mortgage Rate@|mortgagerates.freerateupdate.com@|Low 10 15-Yr, 30-Yr Rates 3.3 APR*. Calculate New Rate/Payment Fast!||0||0
+2016-12-11 17:02:18.196633||measurement||ad||2016-12-11 17:02:14.245605@|$15/hr Frito Lay Jobs@|itsmycareer.com@|No Experience Required. Need Entry Level and Experienced. View Local Job Openings. ||3||1
+2016-12-11 17:02:20.001265||measurement||ad||2016-12-11 17:02:14.245605@|Start Download@|www.driverupdate.net@|Update Windows® 10 Drivers from DriverUpdate™||3||1
+2016-12-11 17:02:20.002182||measurement||loadtime||0:00:41.868257||3||1
+2016-12-11 17:02:24.133144||measurement||ad||2016-12-11 17:02:17.018081@|British Expat in the USA?@|www.forthcapital.com/PensionAdvice@|Avoid Losing 45% of your UK pension Move your pension. Free Guide!||2||1
+2016-12-11 17:02:24.510168||measurement||ad||2016-12-11 17:02:07.100335@|How To Cure Bad Breath@|halitosisresearch.org@|Banish bad breath (for good) with this 30-second daily trick.||0||0
+2016-12-11 17:02:25.426233||measurement||ad||2016-12-11 17:02:17.018081@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||2||1
+2016-12-11 17:02:25.558268||measurement||loadtime||0:00:49.916937||1||0
+2016-12-11 17:02:28.856376||measurement||ad||2016-12-11 17:02:17.018081@|Retire in the U.K@|www.internationalliving.com@|Free Report for people considering Retiring in the United Kindgom||2||1
+2016-12-11 17:02:28.857236||measurement||loadtime||0:00:49.941072||2||1
+2016-12-11 17:02:31.709665||measurement||ad||2016-12-11 17:02:07.100335@|Car Batteries Sale@|shoppermart.net@|2016 Limited Offers! Find Car Batteries Now||0||0
+2016-12-11 17:02:31.710465||measurement||loadtime||0:00:57.245388||0||0
+2016-12-11 17:02:54.862560||measurement||ad||2016-12-11 17:02:46.683186@|Mold Test Kits@|Interpretive Lab Report@|Easy to Use, Fast Results Available ||3||1
+2016-12-11 17:02:54.863504||measurement||loadtime||0:00:29.855613||3||1
+2016-12-11 17:03:08.179152||measurement||ad||2016-12-11 17:03:06.158295@|British Expat in the USA?@|www.forthcapital.com/PensionAdvice@|Avoid Losing 45% of your UK pension Move your pension. Free Guide!||2||1
+2016-12-11 17:03:11.624534||measurement||ad||2016-12-11 17:03:06.158295@|Healthcare Technology@|www.cdwcommunit.com@|Power Patient Care with Technology Using CDW's Healthcare IT Solutions||2||1
+2016-12-11 17:03:11.874608||measurement||ad||2016-12-11 17:03:06.158295@|Filipino Cruise Workers@|www.destinationtips.com@|14 Things You Don’t Know About Filipino Cruise Workers||2||1
+2016-12-11 17:03:11.875757||measurement||loadtime||0:00:38.008306||2||1
+2016-12-11 17:03:12.553410||measurement||loadtime||0:00:41.984340||1||0
+2016-12-11 17:03:16.812062||measurement||ad||2016-12-11 17:03:12.728653@|How To Cure Bad Breath@|halitosisresearch.org@|Banish bad breath (for good) with this 30-second daily trick.||0||0
+2016-12-11 17:03:19.871430||measurement||ad||2016-12-11 17:03:12.728653@|2.7% Fixed Mortgage Rate@|mortgagerates.freerateupdate.com@|Low 10 15-Yr, 30-Yr Rates 3.3 APR*. Calculate New Rate/Payment Fast!||0||0
+2016-12-11 17:03:21.914916||measurement||ad||2016-12-11 17:03:12.728653@|Car Batteries Sale@|shoppermart.net@|2016 Limited Offers! Find Car Batteries Now||0||0
+2016-12-11 17:03:21.915950||measurement||loadtime||0:00:45.200325||0||0
+2016-12-11 17:03:41.282896||measurement||ad||2016-12-11 17:03:32.756352@|Become a Programmer@|technology.comparetopschools.com@|Request Free Info From Schools With Degrees in Computer Programming.||3||1
+2016-12-11 17:03:44.158427||measurement||ad||2016-12-11 17:03:32.756352@|Shopping For a Mortgage?@|www.investopedia.com/Mortgage@|Calculate your Mortgage Payment and Get the Right Mortgage for you||3||1
+2016-12-11 17:03:46.765915||measurement||ad||2016-12-11 17:03:32.756352@|2.7% Fixed Mortgage Rate@|mortgagerates.freerateupdate.com@|Low 10 15-Yr, 30-Yr Rates 3.3 APR*. Calculate New Rate/Payment Fast!||3||1
+2016-12-11 17:03:46.766729||measurement||loadtime||0:00:46.881836||3||1
+2016-12-11 17:03:50.984469||measurement||ad||2016-12-11 17:03:46.267803@|British Expat in the USA?@|www.forthcapital.com/PensionAdvice@|Avoid Losing 45% of your UK pension Move your pension. Free Guide!||2||1
+2016-12-11 17:03:51.777542||measurement||ad||2016-12-11 17:03:46.267803@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||2||1
+2016-12-11 17:03:52.518847||measurement||ad||2016-12-11 17:03:46.267803@|Top 5 Oil Stocks for 2017@|energyandresourcesdigest.com@|Oil is set to flow in 2017. Here's how you can profit. Free report. ||2||1
+2016-12-11 17:03:52.519558||measurement||loadtime||0:00:35.638701||2||1
+2016-12-11 17:03:57.036762||measurement||ad||2016-12-11 17:03:49.519091@|The 2017 Toyota® Mirai@|@|Zero Emissions. HOV Access. The Car of the Future is Available Today. ||1||0
+2016-12-11 17:03:57.037689||measurement||loadtime||0:00:39.479094||1||0
+2016-12-11 17:04:03.076603||measurement||ad||2016-12-11 17:03:54.214458@|Retirement Annuity Income@|advisorworld.com/Retirement-Income@|7% Guaranteed LifeTime Income. Reduced Risk For Retirees Here.||0||0
+2016-12-11 17:04:12.243930||measurement||ad||2016-12-11 17:03:54.214458@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||0||0
+2016-12-11 17:04:18.630443||measurement||ad||2016-12-11 17:03:54.214458@|6 Stocks to Hold Forever@|wealthyretirement.com/PreferredStocks@|Looking to retire? These 6 stocks will generate regular income. ||0||0
+2016-12-11 17:04:18.631244||measurement||loadtime||0:00:51.710200||0||0
+2016-12-11 17:04:22.633842||measurement||ad||2016-12-11 17:04:17.391234@|The 2017 Toyota® Mirai@|@|Mirai Is Available in CA. The Car of the Future is Available Today. ||3||1
+2016-12-11 17:04:22.634669||measurement||loadtime||0:00:30.861916||3||1
+2016-12-11 17:04:34.897136||measurement||ad||2016-12-11 17:04:28.058411@|British Expat in the USA?@|www.forthcapital.com/PensionAdvice@|Avoid Losing 45% of your UK pension Move your pension. Free Guide!||2||1
+2016-12-11 17:04:40.506675||measurement||ad||2016-12-11 17:04:28.058411@|Healthcare Technology@|www.cdwcommunit.com@|Power Patient Care with Technology Using CDW's Healthcare IT Solutions||2||1
+2016-12-11 17:04:44.379653||measurement||ad||2016-12-11 17:04:28.058411@|Filipino Cruise Workers@|www.destinationtips.com@|14 Things You Don’t Know About Filipino Cruise Workers||2||1
+2016-12-11 17:04:44.380401||measurement||loadtime||0:00:46.852658||2||1
+2016-12-11 17:04:48.089895||measurement||loadtime||0:00:46.038987||1||0
+2016-12-11 17:04:57.417852||measurement||ad||2016-12-11 17:04:53.279748@|Signs  Banners Fast@|www.americansigninstall.com@|We are your electrical sign guys ! Banner,logo's,sandblast  much more||3||1
+2016-12-11 17:05:00.009658||measurement||ad||2016-12-11 17:04:53.279748@|Apply for Disability@|www.disability-benefits-help.org@|You May Be Owed Up To $2,663/mo in Social Security Disability Benefits||3||1
+2016-12-11 17:05:00.495489||measurement||ad||2016-12-11 17:04:53.279748@|classified list:@|classifiedlist.net@|jobs, housing, for sale, cars ||3||1
+2016-12-11 17:05:00.496200||measurement||loadtime||0:00:32.852949||3||1
+2016-12-11 17:05:00.859329||measurement||ad||2016-12-11 17:04:54.089531@|Mold Test Kits@|Interpretive Lab Report@|Easy to Use, Fast Results Available ||0||0
+2016-12-11 17:05:00.859961||measurement||loadtime||0:00:37.226229||0||0
+2016-12-11 17:05:20.890999||measurement||ad||2016-12-11 17:05:14.372101@|British Expat in the USA?@|www.forthcapital.com/PensionAdvice@|Avoid Losing 45% of your UK pension Move your pension. Free Guide!||2||1
+2016-12-11 17:05:24.068772||measurement||ad||2016-12-11 17:05:14.372101@|Filipino Cruise Workers@|www.destinationtips.com@|14 Things You Don’t Know About Filipino Cruise Workers||2||1
+2016-12-11 17:05:25.113026||measurement||ad||2016-12-11 17:05:14.372101@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||2||1
+2016-12-11 17:05:25.120210||measurement||loadtime||0:00:35.731964||2||1
+2016-12-11 17:05:31.542672||measurement||loadtime||0:00:38.448303||1||0
+2016-12-11 17:05:35.989261||measurement||ad||2016-12-11 17:05:29.304010@|Become a Programmer@|technology.comparetopschools.com@|Request Free Info From Schools With Degrees in Computer Programming.||3||1
+2016-12-11 17:05:36.976378||measurement||ad||2016-12-11 17:05:29.304010@|Govt Attempts To Ban Cash@|www.bonnerandpartners.com@|Why Millionaires Take This Farmer's Warning Seriously ||3||1
+2016-12-11 17:05:40.040524||measurement||ad||2016-12-11 17:05:31.879820@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||0||0
+2016-12-11 17:05:40.704166||measurement||ad||2016-12-11 17:05:29.304010@|Best Free Antivirus@|usstoresavers.com/Free-Antivirus@|Special 2016 Hot Deals - On Now! Find Best Free Antivirus Programs||3||1
+2016-12-11 17:05:40.704943||measurement||loadtime||0:00:35.203607||3||1
+2016-12-11 17:05:44.033401||measurement||ad||2016-12-11 17:05:31.879820@|Flight Deals from $88@|rd.airfarewatchdog.com@|See Today's Top Deals Found by the Airfarewatchdog Fare Experts ||0||0
+2016-12-11 17:05:47.553753||measurement||ad||2016-12-11 17:05:31.879820@|Free BI Whitepaper@|www.tableau.com@|Self-Service Business Intelligence. Generate Insights. Free Whitepaper!||0||0
+2016-12-11 17:05:47.554471||measurement||loadtime||0:00:41.682352||0||0
+2016-12-11 17:06:02.627432||measurement||ad||2016-12-11 17:06:00.050909@|British Expat in the USA?@|www.forthcapital.com/PensionAdvice@|Avoid Losing 45% of your UK pension Move your pension. Free Guide!||2||1
+2016-12-11 17:06:03.676663||measurement||ad||2016-12-11 17:06:00.050909@|Healthcare Technology@|www.cdwcommunit.com@|Power Patient Care with Technology Using CDW's Healthcare IT Solutions||2||1
+2016-12-11 17:06:04.550760||measurement||ad||2016-12-11 17:06:00.050909@|Filipino Cruise Workers@|www.destinationtips.com@|14 Things You Don’t Know About Filipino Cruise Workers||2||1
+2016-12-11 17:06:04.551441||measurement||loadtime||0:00:34.425955||2||1
+2016-12-11 17:06:04.713633||measurement||ad||2016-12-11 17:06:04.315401@|Become a Programmer@|technology.comparetopschools.com@|Request Free Info From Schools With Degrees in Computer Programming.||3||1
+2016-12-11 17:06:05.340484||measurement||ad||2016-12-11 17:06:04.315401@|TV Channel Free Download@|www.mytelevisionhq.com@|Use Your Computer as a TV. Get the MyTelevisionHQ App Now!||3||1
+2016-12-11 17:06:05.589608||measurement||ad||2016-12-11 17:06:04.315401@|2.7% Fixed Mortgage Rate@|mortgagerates.freerateupdate.com@|Low 10 15-Yr, 30-Yr Rates 3.3 APR*. Calculate New Rate/Payment Fast!||3||1
+2016-12-11 17:06:05.590273||measurement||loadtime||0:00:19.874230||3||1
+2016-12-11 17:06:07.569494||measurement||loadtime||0:00:31.018973||1||0
+2016-12-11 17:06:10.257709||measurement||ad||2016-12-11 17:06:09.180846@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||0||0
+2016-12-11 17:06:11.501464||measurement||ad||2016-12-11 17:06:09.180846@|Flight Deals from $88@|rd.airfarewatchdog.com@|See Today's Top Deals Found by the Airfarewatchdog Fare Experts ||0||0
+2016-12-11 17:06:12.377515||measurement||ad||2016-12-11 17:06:09.180846@|Free BI Whitepaper@|www.tableau.com@|Self-Service Business Intelligence. Generate Insights. Free Whitepaper!||0||0
+2016-12-11 17:06:12.378293||measurement||loadtime||0:00:19.808085||0||0
+2016-12-11 17:06:36.124121||measurement||ad||2016-12-11 17:06:35.647686@|2.7% Fixed Mortgage Rate@|mortgagerates.freerateupdate.com@|Low 10 15-Yr, 30-Yr Rates 3.3 APR*. Calculate New Rate/Payment Fast!||0||0
+2016-12-11 17:06:36.584503||measurement||ad||2016-12-11 17:06:35.647686@|Car Batteries Sale@|shoppermart.net@|2016 Limited Offers! Find Car Batteries Now||0||0
+2016-12-11 17:06:36.978070||measurement||ad||2016-12-11 17:06:35.647686@|How To Cure Bad Breath@|halitosisresearch.org@|Banish bad breath (for good) with this 30-second daily trick.||0||0
+2016-12-11 17:06:36.978864||measurement||loadtime||0:00:19.596520||0||0
+2016-12-11 17:06:37.080066||measurement||ad||2016-12-11 17:06:32.557156@|British Expat in the USA?@|www.forthcapital.com/PensionAdvice@|Avoid Losing 45% of your UK pension Move your pension. Free Guide!||2||1
+2016-12-11 17:06:38.221699||measurement||ad||2016-12-11 17:06:11.043767@|Compare New Mitsubishis@|www.kbb.com@|New Mitsubishi Prices, Reviews  Ratings at Kelley Blue Book.||3||1
+2016-12-11 17:06:41.872478||measurement||ad||2016-12-11 17:06:32.557156@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||2||1
+2016-12-11 17:06:44.036016||measurement||loadtime||0:00:31.456977||1||0
+2016-12-11 17:06:45.168123||measurement||ad||2016-12-11 17:06:11.043767@|Become a Programmer@|technology.comparetopschools.com@|Request Free Info From Schools With Degrees in Computer Programming.||3||1
+2016-12-11 17:06:46.804990||measurement||ad||2016-12-11 17:06:32.557156@|Top 5 Oil Stocks for 2017@|energyandresourcesdigest.com@|Oil is set to flow in 2017. Here's how you can profit. Free report. ||2||1
+2016-12-11 17:06:46.806220||measurement||loadtime||0:00:37.251256||2||1
+2016-12-11 17:06:48.180067||measurement||ad||2016-12-11 17:06:11.043767@|Govt Attempts To Ban Cash@|www.bonnerandpartners.com@|Why Millionaires Take This Farmer's Warning Seriously ||3||1
+2016-12-11 17:06:48.180863||measurement||loadtime||0:00:37.585545||3||1
+2016-12-11 17:07:04.872076||measurement||ad||2016-12-11 17:07:03.026717@|Best Free Antivirus@|usstoresavers.com/Free-Antivirus@|Special 2016 Hot Deals - On Now! Find Best Free Antivirus Programs||0||0
+2016-12-11 17:07:05.167610||measurement||ad||2016-12-11 17:07:03.026717@|Want to Live in Cuba?@|www.internationalliving.com/Cuba@|Free Report: Everything you need to know about Cuba. Act now.||0||0
+2016-12-11 17:07:07.779667||measurement||ad||2016-12-11 17:07:03.026717@|2.7% Fixed Mortgage Rate@|mortgagerates.freerateupdate.com@|Low 10 15-Yr, 30-Yr Rates 3.3 APR*. Calculate New Rate/Payment Fast!||0||0
+2016-12-11 17:07:07.780463||measurement||loadtime||0:00:25.786587||0||0
+2016-12-11 17:07:20.462516||measurement||ad||2016-12-11 17:07:13.468957@|British Expat in the USA?@|www.forthcapital.com/PensionAdvice@|Avoid Losing 45% of your UK pension Move your pension. Free Guide!||2||1
+2016-12-11 17:07:21.927538||measurement||ad||2016-12-11 17:07:14.317316@|The 2017 Toyota® Mirai@|@|Mirai Is Available in CA. The Car of the Future is Available Today. ||1||0
+2016-12-11 17:07:21.930784||measurement||loadtime||0:00:32.886804||1||0
+2016-12-11 17:07:24.542292||measurement||ad||2016-12-11 17:07:18.387172@|Signs  Banners Fast@|www.americansigninstall.com@|We are your electrical sign guys ! Banner,logo's,sandblast  much more||3||1
+2016-12-11 17:07:26.494542||measurement||ad||2016-12-11 17:07:13.468957@|Healthcare Technology@|www.cdwcommunit.com@|Power Patient Care with Technology Using CDW's Healthcare IT Solutions||2||1
+2016-12-11 17:07:28.158594||measurement||ad||2016-12-11 17:07:18.387172@|Airport Parking Coupons@|airportparkingtravel.shopathome.com@|Free Online Coupons  Offers Here. Get Parking Coupons  Savings App!||3||1
+2016-12-11 17:07:31.746325||measurement||ad||2016-12-11 17:07:31.245867@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||0||0
+2016-12-11 17:07:31.978149||measurement||ad||2016-12-11 17:07:13.468957@|Filipino Cruise Workers@|www.destinationtips.com@|14 Things You Don’t Know About Filipino Cruise Workers||2||1
+2016-12-11 17:07:31.978961||measurement||loadtime||0:00:40.162140||2||1
+2016-12-11 17:07:32.185608||measurement||ad||2016-12-11 17:07:31.245867@|Free BI Whitepaper@|www.tableau.com@|Self-Service Business Intelligence. Generate Insights. Free Whitepaper!||0||0
+2016-12-11 17:07:32.488188||measurement||ad||2016-12-11 17:07:31.245867@|Flight Deals from $88@|rd.airfarewatchdog.com@|See Today's Top Deals Found by the Airfarewatchdog Fare Experts ||0||0
+2016-12-11 17:07:32.488900||measurement||loadtime||0:00:19.702620||0||0
+2016-12-11 17:07:33.191417||measurement||ad||2016-12-11 17:07:18.387172@|Flight Deals from $88@|rd.airfarewatchdog.com@|See Today's Top Deals Found by the Airfarewatchdog Fare Experts ||3||1
+2016-12-11 17:07:33.192230||measurement||loadtime||0:00:40.006756||3||1
+2016-12-11 17:07:55.336324||measurement||ad||2016-12-11 17:07:54.475746@|Free BI Whitepaper@|www.tableau.com@|Self-Service Business Intelligence. Generate Insights. Free Whitepaper!||0||0
+2016-12-11 17:07:58.124651||measurement||ad||2016-12-11 17:07:54.475746@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||0||0
+2016-12-11 17:07:58.440306||measurement||ad||2016-12-11 17:07:54.475746@|Flight Deals from $88@|rd.airfarewatchdog.com@|See Today's Top Deals Found by the Airfarewatchdog Fare Experts ||0||0
+2016-12-11 17:07:58.440904||measurement||loadtime||0:00:20.934796||0||0
+2016-12-11 17:07:58.441195||event||progress-marker||measurement-end||0||0
+2016-12-11 17:08:02.682462||measurement||ad||2016-12-11 17:07:55.521954@|The 2017 Toyota® Mirai@|@|Mirai Is Available in CA. The Car of the Future is Available Today. ||1||0
+2016-12-11 17:08:02.683145||measurement||loadtime||0:00:35.747058||1||0
+2016-12-11 17:08:08.668517||measurement||ad||2016-12-11 17:08:05.185552@|British Expat in the USA?@|www.forthcapital.com/PensionAdvice@|Avoid Losing 45% of your UK pension Move your pension. Free Guide!||2||1
+2016-12-11 17:08:10.342842||measurement||ad||2016-12-11 17:08:05.185552@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||2||1
+2016-12-11 17:08:11.927074||measurement||ad||2016-12-11 17:08:05.185552@|Top 5 Oil Stocks for 2017@|energyandresourcesdigest.com@|Oil is set to flow in 2017. Here's how you can profit. Free report. ||2||1
+2016-12-11 17:08:11.927921||measurement||loadtime||0:00:34.944964||2||1
+2016-12-11 17:08:12.068183||measurement||ad||2016-12-11 17:08:08.332228@|Signs  Banners Fast@|www.americansigninstall.com@|We are your electrical sign guys ! Banner,logo's,sandblast  much more||3||1
+2016-12-11 17:08:13.171087||measurement||ad||2016-12-11 17:08:08.332228@|Airport Parking Coupons@|airportparkingtravel.shopathome.com@|Free Online Coupons  Offers Here. Get Parking Coupons  Savings App!||3||1
+2016-12-11 17:08:14.085209||measurement||ad||2016-12-11 17:08:08.332228@|Cheapest Car Rental Deals@|car-rentals.tripbase.com/Deals@|Cars From Only $10 Per Day Compare Deals from Top Companies!||3||1
+2016-12-11 17:08:14.085950||measurement||loadtime||0:00:35.883512||3||1
+2016-12-11 17:08:14.086316||event||progress-marker||measurement-end||3||1
+2016-12-11 17:08:31.267789||measurement||ad||2016-12-11 17:08:27.629884@|Mold Test Kits@|Easy to Understand Report@|Fast Lab Results ||2||1
+2016-12-11 17:08:31.268890||measurement||loadtime||0:00:14.329536||2||1
+2016-12-11 17:08:31.269357||event||progress-marker||measurement-end||2||1
+2016-12-11 17:08:34.822424||measurement||loadtime||0:00:27.124555||1||0
+2016-12-11 17:08:34.827736||event||progress-marker||measurement-end||1||0
+2016-12-11 17:08:35.170410||meta||block_id end||0
+2016-12-11 17:08:35.170712||meta||block_id start||1
+2016-12-11 17:08:35.170734||meta||assignment||3@|0@|1@|2
+2016-12-11 17:08:43.559164||event||progress-marker||training-start||2||1
+2016-12-11 17:08:43.590996||event||progress-marker||training-start||0||0
+2016-12-11 17:08:43.640172||event||progress-marker||training-start||1||1
+2016-12-11 17:08:43.644248||event||progress-marker||training-start||3||0
+2016-12-11 17:09:25.086495||error||website timeout||http://lucianne.com||0||0
+2016-12-11 17:09:27.144726||error||website timeout||http://lucianne.com||3||0
+2016-12-11 17:09:28.811839||error||website timeout||http://univision.com||1||1
+2016-12-11 17:09:31.459428||error||website timeout||http://univision.com||2||1
+2016-12-11 17:09:35.171242||treatment||visit website||http://marymaxim.com||0||0
+2016-12-11 17:09:38.841014||treatment||visit website||http://marymaxim.com||3||0
+2016-12-11 17:09:50.148656||treatment||visit website||http://google.com.mx||1||1
+2016-12-11 17:09:51.331196||treatment||visit website||http://thrivent.com||0||0
+2016-12-11 17:09:56.437396||treatment||visit website||http://misabueso.com||1||1
+2016-12-11 17:09:57.554187||treatment||visit website||http://google.com.mx||2||1
+2016-12-11 17:09:58.621978||treatment||visit website||http://tractorshed.com||0||0
+2016-12-11 17:10:03.777970||treatment||visit website||http://misabueso.com||2||1
+2016-12-11 17:10:11.293342||treatment||visit website||http://thrivent.com||3||0
+2016-12-11 17:10:15.925212||treatment||visit website||http://lapatilla.com||2||1
+2016-12-11 17:10:16.989561||treatment||visit website||http://lapatilla.com||1||1
+2016-12-11 17:10:18.878091||treatment||visit website||http://tractorshed.com||3||0
+2016-12-11 17:10:48.237407||treatment||visit website||http://badoo.com||1||1
+2016-12-11 17:10:52.043429||error||website timeout||http://pressrepublican.com||0||0
+2016-12-11 17:11:19.281132||error||website timeout||http://pressrepublican.com||3||0
+2016-12-11 17:11:23.065329||treatment||visit website||http://thesunchronicle.com||0||0
+2016-12-11 17:11:29.222532||treatment||visit website||http://google.es||1||1
+2016-12-11 17:11:59.671601||treatment||visit website||http://auburnpub.com||0||0
+2016-12-11 17:12:09.687030||treatment||visit website||http://thesunchronicle.com||3||0
+2016-12-11 17:12:24.153184||error||website timeout||http://lan.com||1||1
+2016-12-11 17:12:27.562115||treatment||visit website||http://auburnpub.com||3||0
+2016-12-11 17:12:31.745351||treatment||visit website||http://e-travel.com||1||1
+2016-12-11 17:12:45.236879||treatment||visit website||http://taringa.net||1||1
+2016-12-11 17:12:48.663614||treatment||visit website||http://allears.net||0||0
+2016-12-11 17:13:32.853095||treatment||visit website||http://northcountrynow.com||0||0
+2016-12-11 17:13:53.320961||treatment||visit website||http://allears.net||3||0
+2016-12-11 17:14:40.942128||error||website timeout||http://northcountrynow.com||3||0
+2016-12-11 17:14:41.193557||error||website timeout||http://duluthnewstribune.com||0||0
+2016-12-11 17:14:57.755243||treatment||visit website||http://duluthnewstribune.com||3||0
+2016-12-11 17:15:28.156245||treatment||visit website||http://singingnews.com||0||0
+2016-12-11 17:16:13.887165||treatment||visit website||http://thevillages.com||0||0
+2016-12-11 17:16:49.143160||treatment||visit website||http://singingnews.com||3||0
+2016-12-11 17:17:26.595056||treatment||visit website||http://thevillages.com||3||0
+2016-12-11 17:17:37.521863||error||website timeout||http://wsaw.com||0||0
+2016-12-11 17:18:11.258626||treatment||visit website||http://badoo.com||2||1
+2016-12-11 17:18:30.421670||treatment||visit website||http://patriotupdate.com||0||0
+2016-12-11 17:18:34.221107||treatment||visit website||http://google.es||2||1
+2016-12-11 17:18:41.088070||treatment||visit website||http://lan.com||2||1
+2016-12-11 17:18:57.696732||error||website timeout||http://wsaw.com||3||0
+2016-12-11 17:19:09.871448||treatment||visit website||http://yesterdaystractors.com||0||0
+2016-12-11 17:19:14.026066||treatment||visit website||http://horoscopo.com||1||1
+2016-12-11 17:19:25.505105||treatment||visit website||http://postbulletin.com||0||0
+2016-12-11 17:19:29.216904||treatment||visit website||http://patriotupdate.com||3||0
+2016-12-11 17:20:40.253309||treatment||visit website||http://wdio.com||0||0
+2016-12-11 17:21:20.836805||treatment||visit website||http://wbng.com||0||0
+2016-12-11 17:21:39.352657||error||website timeout||http://e-travel.com||2||1
+2016-12-11 17:21:44.872167||treatment||visit website||http://taringa.net||2||1
+2016-12-11 17:21:52.017601||treatment||visit website||http://elpasotimes.com||1||1
+2016-12-11 17:22:01.837004||treatment||visit website||http://yesterdaystractors.com||3||0
+2016-12-11 17:22:14.325800||treatment||visit website||http://postbulletin.com||3||0
+2016-12-11 17:22:15.084008||treatment||visit website||http://geisinger.org||0||0
+2016-12-11 17:22:45.569970||treatment||visit website||http://wdio.com||3||0
+2016-12-11 17:23:06.624707||treatment||visit website||http://wbng.com||3||0
+2016-12-11 17:23:24.721736||error||website timeout||http://theanimalrescuesite.com||0||0
+2016-12-11 17:23:24.725407||event||progress-marker||training-end||0||0
+2016-12-11 17:24:14.745379||treatment||visit website||http://geisinger.org||3||0
+2016-12-11 17:24:51.550259||treatment||visit website||http://fotolog.com||1||1
+2016-12-11 17:25:10.883748||error||website timeout||http://theanimalrescuesite.com||3||0
+2016-12-11 17:25:10.884731||event||progress-marker||training-end||3||0
+2016-12-11 17:25:22.418391||treatment||visit website||http://horoscopo.com||2||1
+2016-12-11 17:25:56.815561||error||website timeout||http://valleycentral.com||1||1
+2016-12-11 17:26:07.305244||treatment||visit website||http://miamidade.gov||1||1
+2016-12-11 17:26:08.623949||treatment||visit website||http://elpasotimes.com||2||1
+2016-12-11 17:26:57.878090||treatment||visit website||http://blazersedge.com||1||1
+2016-12-11 17:27:03.111460||treatment||visit website||http://fotolog.com||2||1
+2016-12-11 17:27:32.282489||treatment||visit website||http://valleycentral.com||2||1
+2016-12-11 17:27:42.124366||error||website timeout||http://kvia.com||1||1
+2016-12-11 17:27:58.805570||treatment||visit website||http://latina.com||1||1
+2016-12-11 17:28:10.867334||treatment||visit website||http://miamidade.gov||2||1
+2016-12-11 17:28:16.665462||treatment||visit website||http://ssfcu.org||1||1
+2016-12-11 17:28:34.146989||treatment||visit website||http://blazersedge.com||2||1
+2016-12-11 17:28:48.877589||treatment||visit website||http://kvia.com||2||1
+2016-12-11 17:29:04.566129||error||website timeout||http://elgenero.com||1||1
+2016-12-11 17:29:15.034186||treatment||visit website||http://recycler.com||1||1
+2016-12-11 17:29:15.035978||event||progress-marker||training-end||1||1
+2016-12-11 17:29:32.661478||treatment||visit website||http://latina.com||2||1
+2016-12-11 17:29:45.094336||treatment||visit website||http://ssfcu.org||2||1
+2016-12-11 17:30:08.118353||treatment||visit website||http://elgenero.com||2||1
+2016-12-11 17:30:19.945888||treatment||visit website||http://recycler.com||2||1
+2016-12-11 17:30:19.946471||event||progress-marker||training-end||2||1
+2016-12-11 17:30:20.121100||event||progress-marker||measurement-start||1||1
+2016-12-11 17:30:20.332446||event||progress-marker||measurement-start||0||0
+2016-12-11 17:30:21.321575||event||progress-marker||measurement-start||3||0
+2016-12-11 17:30:24.953659||event||progress-marker||measurement-start||2||1
+2016-12-11 17:30:55.209978||measurement||ad||2016-12-11 17:30:52.168486@|Best Free Antivirus@|usstoresavers.com/Free-Antivirus@|Special 2016 Hot Deals - On Now! Find Best Free Antivirus Programs||0||0
+2016-12-11 17:30:56.563922||measurement||ad||2016-12-11 17:30:52.168486@|Become a Programmer@|technology.comparetopschools.com@|Request Free Info From Schools With Degrees in Computer Programming.||0||0
+2016-12-11 17:30:57.470559||measurement||ad||2016-12-11 17:30:52.497470@|Portable Oxygen Sale@|blackfridaycity.com@|Don't Miss Out On The Biggest Sale Of 2016. Save This Cyber Monday! ||1||1
+2016-12-11 17:30:57.869878||measurement||ad||2016-12-11 17:30:52.497470@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||1||1
+2016-12-11 17:30:58.516209||measurement||ad||2016-12-11 17:30:52.497470@|7 Dementia Warning Signs@|w3.blaylockwellness.com@|Dr. Blaylock Reveals the 7 Triggers That Activate Demtentia ||1||1
+2016-12-11 17:30:58.517019||measurement||loadtime||0:00:33.391819||1||1
+2016-12-11 17:30:59.200104||measurement||ad||2016-12-11 17:30:55.415283@|Dementia Warning Signs.@|memoryrate.com@|UCLA Memory Survey: Find Out if You Are at Risk For Dementia.||3||0
+2016-12-11 17:31:10.680391||measurement||ad||2016-12-11 17:30:52.168486@|Mortgage Rates from 2.7%@|freerateupdate.com@|Compare Fixed Mortgage Rates from 2.7% and Calculate New Rates and Payments. View Online. ||0||0
+2016-12-11 17:31:10.681369||measurement||loadtime||0:00:45.340336||0||0
+2016-12-11 17:31:11.033860||measurement||ad||2016-12-11 17:30:55.415283@|100% Free Samples by Mail@|www.getitfree.us@|Free as in Free. Sign up now for freebies! No credit card or purchase necessary. ||3||0
+2016-12-11 17:31:21.110322||measurement||ad||2016-12-11 17:31:12.942019@|Healthcare Technology@|www.cdwcommunit.com@|Power Patient Care with Technology Using CDW's Healthcare IT Solutions||2||1
+2016-12-11 17:31:25.191170||measurement||ad||2016-12-11 17:30:55.415283@|Free Mexico Retiree Guide@|www.internationalliving.com@|For Americans considering Retiring or Living in Mexico. Get it now.||3||0
+2016-12-11 17:31:25.191792||measurement||loadtime||0:00:58.860920||3||0
+2016-12-11 17:31:34.236274||measurement||ad||2016-12-11 17:31:12.942019@|Lyft™ $500 Driver Bonus@|lyft.com@|Earn Tips  Make Up To $35/Hour Driving with Lyft. Limited Time Offer - Apply Now! ||2||1
+2016-12-11 17:31:41.020221||measurement||ad||2016-12-11 17:31:34.524786@|The 2017 Toyota® Mirai@|@|Mirai Is Available in CA. The Car of the Future is Available Today. ||1||1
+2016-12-11 17:31:41.021342||measurement||loadtime||0:00:37.494751||1||1
+2016-12-11 17:31:43.318434||measurement||ad||2016-12-11 17:31:12.942019@|Top 12 Dividend Stocks@|wealthyretirement.com@|Earn a "Paycheck" each month and boost your income by $3,204. ||2||1
+2016-12-11 17:31:43.319383||measurement||loadtime||0:01:13.358129||2||1
+2016-12-11 17:31:48.173192||measurement||ad||2016-12-11 17:31:32.498161@|Lyft™ $1000 Driver Bonus@|lyft.com@|Earn Tips  Make Up To $35/Hour Driving with Lyft. Limited Time Offer - Apply Now! ||3||0
+2016-12-11 17:31:52.849155||measurement||ad||2016-12-11 17:31:51.355343@|Mold Test Kits@|Easy to Understand Report@|Fast Lab Results ||0||0
+2016-12-11 17:31:52.850143||measurement||loadtime||0:00:37.163831||0||0
+2016-12-11 17:32:09.494097||measurement||ad||2016-12-11 17:31:32.498161@|Healthcare Technology@|www.cdwcommunit.com@|Power Patient Care with Technology Using CDW's Healthcare IT Solutions||3||0
+2016-12-11 17:32:11.035035||measurement||ad||2016-12-11 17:31:32.498161@|$15/hr Frito Lay Jobs@|itsmycareer.com@|No Experience Required. Need Entry Level and Experienced. View Local Job Openings. ||3||0
+2016-12-11 17:32:11.035889||measurement||loadtime||0:00:40.836355||3||0
+2016-12-11 17:32:18.713092||measurement||ad||2016-12-11 17:32:15.025038@|British Expat in the USA?@|lp.forthcapital.com@|Avoid Losing 45% of your UK pension. Move your pension. Get your Free Guide! ||1||1
+2016-12-11 17:32:19.189509||measurement||ad||2016-12-11 17:32:15.025038@|Healthcare Technology@|www.cdwcommunit.com@|Power Patient Care with Technology Using CDW's Healthcare IT Solutions||1||1
+2016-12-11 17:32:21.264942||measurement||ad||2016-12-11 17:32:15.025038@|Computer Science Schools@|technology.comparetopschools.com@|Find Online Schools With Degree Programs in Computer Engineering.||1||1
+2016-12-11 17:32:21.265647||measurement||loadtime||0:00:35.237327||1||1
+2016-12-11 17:32:28.607957||measurement||ad||2016-12-11 17:32:26.182973@|2.7% Fixed Mortgage Rate@|mortgagerates.freerateupdate.com@|Low 10 15-Yr, 30-Yr Rates 3.3 APR*. Calculate New Rate/Payment Fast!||0||0
+2016-12-11 17:32:29.003766||measurement||ad||2016-12-11 17:32:26.182973@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||0||0
+2016-12-11 17:32:29.345218||measurement||ad||2016-12-11 17:32:26.182973@|Become a Programmer@|technology.comparetopschools.com@|Request Free Info From Schools With Degrees in Computer Programming.||0||0
+2016-12-11 17:32:29.346002||measurement||loadtime||0:00:31.488701||0||0
+2016-12-11 17:32:33.890403||measurement||ad||2016-12-11 17:32:27.285076@|Great Deals on Telescopes@|www.dvor.com/Telescopes@|Exclusive Sales Only For Members. New Offers Every Day! Join Free Now||2||1
+2016-12-11 17:32:37.307999||measurement||ad||2016-12-11 17:32:27.285076@|Computer Science Schools@|technology.comparetopschools.com@|Find Accredited Schools Near You With Programs in Computer Science.||2||1
+2016-12-11 17:32:39.354138||measurement||ad||2016-12-11 17:32:27.285076@|Mortgage Rates from 2.7%@|mortgagerates.freerateupdate.com@|Compare Fixed Mortgage Rates from 2.7% and Calculate New Rates and Payments. View Online. ||2||1
+2016-12-11 17:32:39.354955||measurement||loadtime||0:00:51.026316||2||1
+2016-12-11 17:32:50.371836||measurement||ad||2016-12-11 17:32:42.550624@|British Expat in the USA?@|lp.forthcapital.com@|Avoid Losing 45% of your UK pension. Move your pension. Get your Free Guide! ||3||0
+2016-12-11 17:32:50.575360||measurement||ad||2016-12-11 17:32:47.672955@|British Expat in the USA?@|lp.forthcapital.com@|Avoid Losing 45% of your UK pension. Move your pension. Get your Free Guide! ||1||1
+2016-12-11 17:32:51.447314||measurement||ad||2016-12-11 17:32:47.672955@|Healthcare Technology@|www.cdwcommunit.com@|Power Patient Care with Technology Using CDW's Healthcare IT Solutions||1||1
+2016-12-11 17:32:54.095047||measurement||ad||2016-12-11 17:32:42.550624@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||3||0
+2016-12-11 17:32:54.587505||measurement||ad||2016-12-11 17:32:47.672955@|Computer Science Schools@|technology.comparetopschools.com@|Find Online Schools With Degree Programs in Computer Engineering.||1||1
+2016-12-11 17:32:54.588269||measurement||loadtime||0:00:28.310152||1||1
+2016-12-11 17:32:57.579654||measurement||ad||2016-12-11 17:32:42.550624@|Airport Parking Coupons@|airportparkingtravel.shopathome.com@|Free Online Coupons  Offers Here. Get Parking Coupons  Savings App!||3||0
+2016-12-11 17:32:57.580474||measurement||loadtime||0:00:41.539449||3||0
+2016-12-11 17:33:07.418354||measurement||ad||2016-12-11 17:33:02.678505@|British Expat in the USA?@|lp.forthcapital.com@|Avoid Losing 45% of your UK pension. Move your pension. Get your Free Guide! ||2||1
+2016-12-11 17:33:08.442326||measurement||ad||2016-12-11 17:33:02.678505@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||2||1
+2016-12-11 17:33:08.952066||measurement||ad||2016-12-11 17:33:02.678505@|"Fix Windows® Update"@|wiki-errors.com@|(Recommended DLL Repair Tool) Follow These Simple Instructions!||2||1
+2016-12-11 17:33:08.952843||measurement||loadtime||0:00:24.594391||2||1
+2016-12-11 17:33:12.958424||measurement||ad||2016-12-11 17:33:01.913123@|What's New in BI in 2017@|www.tableau.com@|Find Out What's Next for Business Intelligence. Get the Free Guide!||0||0
+2016-12-11 17:33:20.668365||measurement||ad||2016-12-11 17:33:01.913123@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||0||0
+2016-12-11 17:33:25.076770||measurement||ad||2016-12-11 17:33:23.141430@|British Expat in the USA?@|lp.forthcapital.com@|Avoid Losing 45% of your UK pension. Move your pension. Get your Free Guide! ||1||1
+2016-12-11 17:33:25.454321||measurement||ad||2016-12-11 17:33:23.141430@|Healthcare Technology@|www.cdwcommunit.com@|Power Patient Care with Technology Using CDW's Healthcare IT Solutions||1||1
+2016-12-11 17:33:25.842408||measurement||ad||2016-12-11 17:33:01.913123@|Retire in the U.K@|www.internationalliving.com@|Free Report for people considering Retiring in the United Kindgom||0||0
+2016-12-11 17:33:25.843369||measurement||loadtime||0:00:51.486163||0||0
+2016-12-11 17:33:25.906359||measurement||ad||2016-12-11 17:33:23.141430@|Computer Science Schools@|technology.comparetopschools.com@|Find Online Schools With Degree Programs in Computer Engineering.||1||1
+2016-12-11 17:33:25.907117||measurement||loadtime||0:00:26.309124||1||1
+2016-12-11 17:33:26.683056||measurement||ad||2016-12-11 17:33:25.900957@|British Expat in the USA?@|lp.forthcapital.com@|Avoid Losing 45% of your UK pension. Move your pension. Get your Free Guide! ||3||0
+2016-12-11 17:33:26.990272||measurement||ad||2016-12-11 17:33:25.900957@|Lyft™ $1000 Driver Bonus@|lyft.com@|Earn Tips  Make Up To $35/Hour Driving with Lyft. Limited Time Offer - Apply Now! ||3||0
+2016-12-11 17:33:27.206489||measurement||ad||2016-12-11 17:33:25.900957@|6 Stocks to Hold Forever@|wealthyretirement.com/PreferredStocks@|Looking to retire? These 6 stocks will generate regular income. ||3||0
+2016-12-11 17:33:27.207105||measurement||loadtime||0:00:24.619761||3||0
+2016-12-11 17:33:39.287310||measurement||ad||2016-12-11 17:33:37.611178@|Computer Science Schools@|technology.comparetopschools.com@|Find Accredited Schools Near You With Programs in Computer Science.||2||1
+2016-12-11 17:33:40.313110||measurement||ad||2016-12-11 17:33:37.611178@|Great Deals on Telescopes@|www.dvor.com/Telescopes@|Exclusive Sales Only For Members. New Offers Every Day! Join Free Now||2||1
+2016-12-11 17:33:41.005110||measurement||ad||2016-12-11 17:33:37.611178@|Mortgage Rates from 2.7%@|mortgagerates.freerateupdate.com@|Compare Fixed Mortgage Rates from 2.7% and Calculate New Rates and Payments. View Online. ||2||1
+2016-12-11 17:33:41.005862||measurement||loadtime||0:00:27.046431||2||1
+2016-12-11 17:33:53.863803||measurement||ad||2016-12-11 17:33:51.923532@|British Expat in the USA?@|lp.forthcapital.com@|Avoid Losing 45% of your UK pension. Move your pension. Get your Free Guide! ||1||1
+2016-12-11 17:33:57.316889||measurement||ad||2016-12-11 17:33:54.016382@|Dementia Warning Signs.@|memoryrate.com@|UCLA Memory Survey: Find Out if You Are at Risk For Dementia.||3||0
+2016-12-11 17:33:57.804246||measurement||ad||2016-12-11 17:33:54.016382@|Free Mexico Retiree Guide@|www.internationalliving.com@|For Americans considering Retiring or Living in Mexico. Get it now.||3||0
+2016-12-11 17:33:58.365950||measurement||ad||2016-12-11 17:33:51.923532@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||1||1
+2016-12-11 17:33:58.635223||measurement||ad||2016-12-11 17:33:54.016382@|100% Free Samples by Mail@|www.getitfree.us@|Free as in Free. Sign up now for freebies! No credit card or purchase necessary. ||3||0
+2016-12-11 17:33:58.641354||measurement||loadtime||0:00:26.430238||3||0
+2016-12-11 17:33:59.642356||measurement||ad||2016-12-11 17:33:51.923532@|Toughest Quiz Ever?@|iconichistoricalphotos.com@|The average score is just 9 correct answers - can you do any better? ||1||1
+2016-12-11 17:33:59.642997||measurement||loadtime||0:00:28.730213||1||1
+2016-12-11 17:34:04.401367||measurement||ad||2016-12-11 17:34:02.502653@|Considering Annuities?@|www.fi.com@|Find out why annuities may not be the best investment for retirement||0||0
+2016-12-11 17:34:05.629344||measurement||ad||2016-12-11 17:34:02.502653@|Lyft™ $1000 Driver Bonus@|lyft.com@|Earn Tips  Make Up To $35/Hour Driving with Lyft. Limited Time Offer - Apply Now! ||0||0
+2016-12-11 17:34:06.349594||measurement||ad||2016-12-11 17:34:02.502653@|8% Annual Annuity Return@|advisorworld.com/CompareAnnuities@|Get guaranteed lifetime income and reduced risks to retirees all here.||0||0
+2016-12-11 17:34:06.350432||measurement||loadtime||0:00:35.501234||0||0
+2016-12-11 17:34:13.413931||measurement||ad||2016-12-11 17:34:08.689769@|British Expat in the USA?@|lp.forthcapital.com@|Avoid Losing 45% of your UK pension. Move your pension. Get your Free Guide! ||2||1
+2016-12-11 17:34:14.104499||measurement||ad||2016-12-11 17:34:08.689769@|Healthcare Technology@|www.cdwcommunit.com@|Power Patient Care with Technology Using CDW's Healthcare IT Solutions||2||1
+2016-12-11 17:34:15.113868||measurement||ad||2016-12-11 17:34:08.689769@|Lyft™ $500 Driver Bonus@|lyft.com@|Earn Tips  Make Up To $35/Hour Driving with Lyft. Limited Time Offer - Apply Now! ||2||1
+2016-12-11 17:34:15.114556||measurement||loadtime||0:00:29.103894||2||1
+2016-12-11 17:34:26.706951||measurement||ad||2016-12-11 17:34:24.339609@|British Expat in the USA?@|lp.forthcapital.com@|Avoid Losing 45% of your UK pension. Move your pension. Get your Free Guide! ||3||0
+2016-12-11 17:34:27.415862||measurement||ad||2016-12-11 17:34:24.339609@|Lyft™ $1000 Driver Bonus@|lyft.com@|Earn Tips  Make Up To $35/Hour Driving with Lyft. Limited Time Offer - Apply Now! ||3||0
+2016-12-11 17:34:28.683071||measurement||ad||2016-12-11 17:34:24.339609@|Healthcare Technology@|www.cdwcommunit.com@|Power Patient Care with Technology Using CDW's Healthcare IT Solutions||3||0
+2016-12-11 17:34:28.683866||measurement||loadtime||0:00:25.030968||3||0
+2016-12-11 17:34:38.599118||measurement||ad||2016-12-11 17:34:34.666406@|Retire in the U.K@|www.internationalliving.com@|Free Report for people considering Retiring in the United Kindgom||0||0
+2016-12-11 17:34:39.481914||measurement||ad||2016-12-11 17:34:34.666406@|What's New in BI in 2017@|www.tableau.com@|Find Out What's Next for Business Intelligence. Get the Free Guide!||0||0
+2016-12-11 17:34:41.822048||measurement||ad||2016-12-11 17:34:34.666406@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||0||0
+2016-12-11 17:34:41.822909||measurement||loadtime||0:00:30.466744||0||0
+2016-12-11 17:34:43.877066||measurement||ad||2016-12-11 17:34:33.562011@|The 2017 Toyota® Mirai@|@|Mirai Is Available in CA. The Car of the Future is Available Today. ||1||1
+2016-12-11 17:34:43.877942||measurement||loadtime||0:00:39.232062||1||1
+2016-12-11 17:34:52.119485||measurement||ad||2016-12-11 17:34:48.328143@|British Expat in the USA?@|lp.forthcapital.com@|Avoid Losing 45% of your UK pension. Move your pension. Get your Free Guide! ||2||1
+2016-12-11 17:34:52.682525||measurement||ad||2016-12-11 17:34:48.328143@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||2||1
+2016-12-11 17:34:53.552738||measurement||ad||2016-12-11 17:34:48.328143@|Are You Eligible for Aid?@|www.americanhoperesources.com@|Low Income Resource for US Citizens Suffering from Financial Hardship||2||1
+2016-12-11 17:34:53.553686||measurement||loadtime||0:00:33.433712||2||1
+2016-12-11 17:34:56.374881||measurement||ad||2016-12-11 17:34:56.009002@|Dementia Warning Signs.@|memoryrate.com@|UCLA Memory Survey: Find Out if You Are at Risk For Dementia.||3||0
+2016-12-11 17:34:56.877897||measurement||ad||2016-12-11 17:34:56.009002@|Free Mexico Retiree Guide@|www.internationalliving.com@|For Americans considering Retiring or Living in Mexico. Get it now.||3||0
+2016-12-11 17:34:59.114488||measurement||ad||2016-12-11 17:34:56.009002@|100% Free Samples by Mail@|www.getitfree.us@|Free as in Free. Sign up now for freebies! No credit card or purchase necessary. ||3||0
+2016-12-11 17:34:59.115456||measurement||loadtime||0:00:25.420776||3||0
+2016-12-11 17:35:22.155602||measurement||ad||2016-12-11 17:35:16.885249@|British Expat in the USA?@|lp.forthcapital.com@|Avoid Losing 45% of your UK pension. Move your pension. Get your Free Guide! ||1||1
+2016-12-11 17:35:22.809730||measurement||ad||2016-12-11 17:35:16.860604@|Lyft™ $500 Driver Bonus@|lyft.com@|Earn Tips  Make Up To $35/Hour Driving with Lyft. Limited Time Offer - Apply Now! ||0||0
+2016-12-11 17:35:24.263662||measurement||ad||2016-12-11 17:35:16.885249@|Healthcare Technology@|www.cdwcommunit.com@|Power Patient Care with Technology Using CDW's Healthcare IT Solutions||1||1
+2016-12-11 17:35:24.809699||measurement||ad||2016-12-11 17:35:16.885249@|Computer Science Schools@|technology.comparetopschools.com@|Find Online Schools With Degree Programs in Computer Engineering.||1||1
+2016-12-11 17:35:24.811326||measurement||loadtime||0:00:35.929475||1||1
+2016-12-11 17:35:27.714609||measurement||ad||2016-12-11 17:35:16.860604@|Texas Roadhouse Coupons@|www.befrugal.com/TexasRoadhouse@|Free Coupons for Texas Roadhouse. Print Your Free Coupons Now!||0||0
+2016-12-11 17:35:27.867524||measurement||ad||2016-12-11 17:35:21.082208@|British Expat in the USA?@|lp.forthcapital.com@|Avoid Losing 45% of your UK pension. Move your pension. Get your Free Guide! ||2||1
+2016-12-11 17:35:28.641864||measurement||ad||2016-12-11 17:35:21.082208@|Healthcare Technology@|www.cdwcommunit.com@|Power Patient Care with Technology Using CDW's Healthcare IT Solutions||2||1
+2016-12-11 17:35:31.100655||measurement||ad||2016-12-11 17:35:21.082208@|Become a Programmer@|technology.comparetopschools.com@|Request Free Info From Schools With Degrees in Computer Programming.||2||1
+2016-12-11 17:35:31.103931||measurement||loadtime||0:00:32.539734||2||1
+2016-12-11 17:35:35.524073||measurement||ad||2016-12-11 17:35:16.860604@|Considering Annuities?@|www.fi.com@|Find out why annuities may not be the best investment for retirement||0||0
+2016-12-11 17:35:35.524923||measurement||loadtime||0:00:48.687054||0||0
+2016-12-11 17:35:35.969507||measurement||ad||2016-12-11 17:35:24.837327@|British Expat in the USA?@|lp.forthcapital.com@|Avoid Losing 45% of your UK pension. Move your pension. Get your Free Guide! ||3||0
+2016-12-11 17:35:46.898983||measurement||ad||2016-12-11 17:35:24.837327@|Airport Parking Coupons@|airportparkingtravel.shopathome.com@|Free Online Coupons  Offers Here. Get Parking Coupons  Savings App!||3||0
+2016-12-11 17:35:56.486373||measurement||ad||2016-12-11 17:35:24.837327@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||3||0
+2016-12-11 17:35:56.487147||measurement||loadtime||0:00:52.364321||3||0
+2016-12-11 17:36:02.100075||measurement||ad||2016-12-11 17:35:55.374639@|The 2017 Toyota® Mirai@|@|Mirai Is Available in CA. The Car of the Future is Available Today. ||1||1
+2016-12-11 17:36:02.100850||measurement||loadtime||0:00:32.278884||1||1
+2016-12-11 17:36:09.867434||measurement||ad||2016-12-11 17:36:02.883656@|British Expat in the USA?@|lp.forthcapital.com@|Avoid Losing 45% of your UK pension. Move your pension. Get your Free Guide! ||2||1
+2016-12-11 17:36:11.519313||measurement||ad||2016-12-11 17:36:07.269141@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||0||0
+2016-12-11 17:36:13.667633||measurement||ad||2016-12-11 17:36:02.883656@|Essential Oils Do That?@|www.miracleessentialoils.com@|How to Use Essential Oils for Just About Anything (Plus a Coupon) ||2||1
+2016-12-11 17:36:14.807581||measurement||ad||2016-12-11 17:36:07.269141@|Top 5 Medicare Part D@|exploreshops.net/Medicare-Part-D@|Special 2016 Hot Deals - On Now! Find Medicare Part D  Save||0||0
+2016-12-11 17:36:18.066069||measurement||ad||2016-12-11 17:36:02.883656@|Flight Deals from $88@|www.airfarewatchdog.com@|See Today's Top Deals Found by the Airfarewatchdog Fare Experts ||2||1
+2016-12-11 17:36:18.066918||measurement||loadtime||0:00:41.957548||2||1
+2016-12-11 17:36:24.931796||measurement||ad||2016-12-11 17:36:07.269141@|Electronic Squirrel Repel@|www.pestrepellerultimate.com@|Powerful Device Repels Squirrels. Year Round Protection. Try Today!||0||0
+2016-12-11 17:36:24.933168||measurement||loadtime||0:00:44.402386||0||0
+2016-12-11 17:36:30.252785||measurement||ad||2016-12-11 17:36:04.517265@|Lyft™ $1000 Driver Bonus@|lyft.com@|Earn Tips  Make Up To $35/Hour Driving with Lyft. Limited Time Offer - Apply Now! ||3||0
+2016-12-11 17:36:33.382016||measurement||ad||2016-12-11 17:36:04.517265@|Healthcare Technology@|www.cdwcommunit.com@|Power Patient Care with Technology Using CDW's Healthcare IT Solutions||3||0
+2016-12-11 17:36:35.191047||measurement||ad||2016-12-11 17:36:04.517265@|$15/hr Frito Lay Jobs@|itsmycareer.com@|No Experience Required. Need Entry Level and Experienced. View Local Job Openings. ||3||0
+2016-12-11 17:36:35.191997||measurement||loadtime||0:00:33.697989||3||0
+2016-12-11 17:36:38.467402||measurement||ad||2016-12-11 17:36:30.786045@|British Expat in the USA?@|lp.forthcapital.com@|Avoid Losing 45% of your UK pension. Move your pension. Get your Free Guide! ||1||1
+2016-12-11 17:36:39.183855||measurement||ad||2016-12-11 17:36:30.786045@|Healthcare Technology@|www.cdwcommunit.com@|Power Patient Care with Technology Using CDW's Healthcare IT Solutions||1||1
+2016-12-11 17:36:39.842675||measurement||ad||2016-12-11 17:36:30.786045@|Computer Science Schools@|technology.comparetopschools.com@|Find Online Schools With Degree Programs in Computer Engineering.||1||1
+2016-12-11 17:36:39.843503||measurement||loadtime||0:00:32.734030||1||1
+2016-12-11 17:36:39.843886||event||progress-marker||measurement-end||1||1
+2016-12-11 17:36:48.060373||measurement||ad||2016-12-11 17:36:46.823915@|British Expat in the USA?@|lp.forthcapital.com@|Avoid Losing 45% of your UK pension. Move your pension. Get your Free Guide! ||2||1
+2016-12-11 17:36:49.107103||measurement||ad||2016-12-11 17:36:46.823915@|Healthcare Technology@|www.cdwcommunit.com@|Power Patient Care with Technology Using CDW's Healthcare IT Solutions||2||1
+2016-12-11 17:36:49.515199||measurement||ad||2016-12-11 17:36:46.823915@|Lyft™ $1000 Driver Bonus@|lyft.com@|Earn Tips  Make Up To $35/Hour Driving with Lyft. Limited Time Offer - Apply Now! ||2||1
+2016-12-11 17:36:49.516126||measurement||loadtime||0:00:26.437942||2||1
+2016-12-11 17:36:59.107060||measurement||ad||2016-12-11 17:36:57.809186@|Get (Free) Stuff Today@|www.getitfree.us@|Everything is Free at Get It Free™ No Catch, No Credit Card. 100% Free||3||0
+2016-12-11 17:37:00.391135||measurement||ad||2016-12-11 17:36:33.333177@|Retire in the U.K@|www.internationalliving.com@|Free Report for people considering Retiring in the United Kindgom||0||0
+2016-12-11 17:37:01.940098||measurement||ad||2016-12-11 17:36:57.809186@|3 Catfish Fishing Tricks?@|oldschoolfishingsecrets.com/Secrets@|Unusual "Old School" Strategies can Catch Monster Catfish Quickly!||3||0
+2016-12-11 17:37:02.698148||measurement||ad||2016-12-11 17:36:57.809186@|7 Triggers of Parkinson's@|w3.blaylockwellness.com@|Top Doctor Reveals The 7 Signals Your Body Sends When Parkinson's Is Coming [video] ||3||0
+2016-12-11 17:37:02.698868||measurement||loadtime||0:00:22.501997||3||0
+2016-12-11 17:37:02.699238||event||progress-marker||measurement-end||3||0
+2016-12-11 17:37:04.008200||measurement||ad||2016-12-11 17:36:33.333177@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||0||0
+2016-12-11 17:37:04.810679||measurement||ad||2016-12-11 17:36:33.333177@|What's New in BI in 2017@|www.tableau.com@|Find Out What's Next for Business Intelligence. Get the Free Guide!||0||0
+2016-12-11 17:37:04.811579||measurement||loadtime||0:00:34.870832||0||0
+2016-12-11 17:37:09.564057||measurement||ad||2016-12-11 17:37:08.917819@|Computer Science Schools@|technology.comparetopschools.com@|Find Accredited Schools Near You With Programs in Computer Science.||2||1
+2016-12-11 17:37:10.694258||measurement||ad||2016-12-11 17:37:08.917819@|Great Deals on Telescopes@|www.dvor.com/Telescopes@|Exclusive Sales Only For Members. New Offers Every Day! Join Free Now||2||1
+2016-12-11 17:37:11.567787||measurement||ad||2016-12-11 17:37:08.917819@|Mortgage Rates from 2.7%@|mortgagerates.freerateupdate.com@|Compare Fixed Mortgage Rates from 2.7% and Calculate New Rates and Payments. View Online. ||2||1
+2016-12-11 17:37:11.568552||measurement||loadtime||0:00:17.047606||2||1
+2016-12-11 17:37:11.568947||event||progress-marker||measurement-end||2||1
+2016-12-11 17:37:19.287631||measurement||ad||2016-12-11 17:37:13.165259@|Retire in the U.K@|www.internationalliving.com@|Free Report for people considering Retiring in the United Kindgom||0||0
+2016-12-11 17:37:19.604091||measurement||ad||2016-12-11 17:37:13.165259@|What's New in BI in 2017@|www.tableau.com@|Find Out What's Next for Business Intelligence. Get the Free Guide!||0||0
+2016-12-11 17:37:20.407977||measurement||ad||2016-12-11 17:37:13.165259@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||0||0
+2016-12-11 17:37:20.413142||measurement||loadtime||0:00:10.595984||0||0
+2016-12-11 17:37:20.413572||event||progress-marker||measurement-end||0||0
+2016-12-11 17:37:20.951876||meta||block_id end||1
+2016-12-11 17:37:20.952059||meta||block_id start||2
+2016-12-11 17:37:20.952076||meta||assignment||2@|0@|1@|3
+2016-12-11 17:37:29.161709||event||progress-marker||training-start||3||1
+2016-12-11 17:37:29.439028||event||progress-marker||training-start||0||0
+2016-12-11 17:37:29.462037||event||progress-marker||training-start||2||0
+2016-12-11 17:37:29.478664||event||progress-marker||training-start||1||1
+2016-12-11 17:38:10.605874||error||website timeout||http://univision.com||1||1
+2016-12-11 17:38:17.331654||error||website timeout||http://univision.com||3||1
+2016-12-11 17:38:17.479775||error||website timeout||http://lucianne.com||0||0
+2016-12-11 17:38:19.017467||treatment||visit website||http://google.com.mx||1||1
+2016-12-11 17:38:23.947376||error||website timeout||http://lucianne.com||2||0
+2016-12-11 17:38:32.980971||treatment||visit website||http://marymaxim.com||0||0
+2016-12-11 17:38:37.886545||treatment||visit website||http://marymaxim.com||2||0
+2016-12-11 17:38:41.586854||treatment||visit website||http://misabueso.com||1||1
+2016-12-11 17:38:43.446443||treatment||visit website||http://google.com.mx||3||1
+2016-12-11 17:38:55.557239||treatment||visit website||http://misabueso.com||3||1
+2016-12-11 17:39:01.401086||treatment||visit website||http://thrivent.com||2||0
+2016-12-11 17:39:02.990948||treatment||visit website||http://thrivent.com||0||0
+2016-12-11 17:39:09.801741||treatment||visit website||http://lapatilla.com||3||1
+2016-12-11 17:39:10.066952||treatment||visit website||http://tractorshed.com||0||0
+2016-12-11 17:39:12.801840||treatment||visit website||http://tractorshed.com||2||0
+2016-12-11 17:40:01.084482||error||website timeout||http://pressrepublican.com||0||0
+2016-12-11 17:40:03.063509||error||website timeout||http://pressrepublican.com||2||0
+2016-12-11 17:40:05.803107||error||website timeout||http://lapatilla.com||1||1
+2016-12-11 17:40:11.105204||treatment||visit website||http://badoo.com||3||1
+2016-12-11 17:40:22.701534||treatment||visit website||http://thesunchronicle.com||0||0
+2016-12-11 17:40:27.792293||treatment||visit website||http://thesunchronicle.com||2||0
+2016-12-11 17:40:44.733083||treatment||visit website||http://auburnpub.com||2||0
+2016-12-11 17:40:45.428753||treatment||visit website||http://auburnpub.com||0||0
+2016-12-11 17:40:55.941317||treatment||visit website||http://allears.net||2||0
+2016-12-11 17:41:20.913154||treatment||visit website||http://allears.net||0||0
+2016-12-11 17:41:31.321683||treatment||visit website||http://northcountrynow.com||2||0
+2016-12-11 17:41:44.633043||treatment||visit website||http://northcountrynow.com||0||0
+2016-12-11 17:42:13.717030||treatment||visit website||http://google.es||3||1
+2016-12-11 17:42:19.817245||treatment||visit website||http://badoo.com||1||1
+2016-12-11 17:42:21.523353||error||website timeout||http://duluthnewstribune.com||2||0
+2016-12-11 17:42:42.505452||error||website timeout||http://duluthnewstribune.com||0||0
+2016-12-11 17:42:47.505104||treatment||visit website||http://singingnews.com||2||0
+2016-12-11 17:42:51.518952||treatment||visit website||http://google.es||1||1
+2016-12-11 17:42:57.863838||treatment||visit website||http://lan.com||1||1
+2016-12-11 17:43:05.615472||treatment||visit website||http://singingnews.com||0||0
+2016-12-11 17:43:08.145020||treatment||visit website||http://thevillages.com||2||0
+2016-12-11 17:43:19.208460||error||website timeout||http://lan.com||3||1
+2016-12-11 17:43:27.840671||treatment||visit website||http://thevillages.com||0||0
+2016-12-11 17:43:35.353848||treatment||visit website||http://e-travel.com||3||1
+2016-12-11 17:44:01.441850||treatment||visit website||http://taringa.net||3||1
+2016-12-11 17:44:03.453181||treatment||visit website||http://e-travel.com||1||1
+2016-12-11 17:44:05.877835||error||website timeout||http://wsaw.com||2||0
+2016-12-11 17:44:46.160487||error||website timeout||http://wsaw.com||0||0
+2016-12-11 17:44:53.785918||treatment||visit website||http://patriotupdate.com||2||0
+2016-12-11 17:45:32.846926||treatment||visit website||http://patriotupdate.com||0||0
+2016-12-11 17:46:24.729760||treatment||visit website||http://yesterdaystractors.com||0||0
+2016-12-11 17:46:35.110927||treatment||visit website||http://postbulletin.com||0||0
+2016-12-11 17:47:31.144483||error||website timeout||http://taringa.net||1||1
+2016-12-11 17:48:31.176660||treatment||visit website||http://wdio.com||0||0
+2016-12-11 17:48:35.238712||treatment||visit website||http://horoscopo.com||3||1
+2016-12-11 17:48:49.680982||treatment||visit website||http://horoscopo.com||1||1
+2016-12-11 17:48:58.064878||treatment||visit website||http://yesterdaystractors.com||2||0
+2016-12-11 17:49:06.538721||treatment||visit website||http://postbulletin.com||2||0
+2016-12-11 17:49:09.662277||treatment||visit website||http://elpasotimes.com||3||1
+2016-12-11 17:49:30.074740||treatment||visit website||http://wdio.com||2||0
+2016-12-11 17:50:11.900836||treatment||visit website||http://wbng.com||2||0
+2016-12-11 17:50:16.713572||error||website timeout||http://wbng.com||0||0
+2016-12-11 17:50:34.296267||treatment||visit website||http://elpasotimes.com||1||1
+2016-12-11 17:50:38.723169||treatment||visit website||http://geisinger.org||0||0
+2016-12-11 17:50:49.426340||treatment||visit website||http://geisinger.org||2||0
+2016-12-11 17:51:06.978207||treatment||visit website||http://fotolog.com||3||1
+2016-12-11 17:51:23.293067||treatment||visit website||http://valleycentral.com||3||1
+2016-12-11 17:51:30.735432||error||website timeout||http://theanimalrescuesite.com||0||0
+2016-12-11 17:51:30.737740||event||progress-marker||training-end||0||0
+2016-12-11 17:51:41.509694||treatment||visit website||http://miamidade.gov||3||1
+2016-12-11 17:51:44.042129||error||website timeout||http://theanimalrescuesite.com||2||0
+2016-12-11 17:51:44.043635||event||progress-marker||training-end||2||0
+2016-12-11 17:52:03.241682||treatment||visit website||http://blazersedge.com||3||1
+2016-12-11 17:52:04.873391||treatment||visit website||http://fotolog.com||1||1
+2016-12-11 17:52:33.113596||treatment||visit website||http://valleycentral.com||1||1
+2016-12-11 17:52:38.193887||treatment||visit website||http://kvia.com||3||1
+2016-12-11 17:53:31.219917||treatment||visit website||http://miamidade.gov||1||1
+2016-12-11 17:53:42.330202||treatment||visit website||http://latina.com||3||1
+2016-12-11 17:53:58.166562||treatment||visit website||http://ssfcu.org||3||1
+2016-12-11 17:54:03.790781||treatment||visit website||http://elgenero.com||3||1
+2016-12-11 17:54:24.482587||treatment||visit website||http://blazersedge.com||1||1
+2016-12-11 17:54:30.660596||treatment||visit website||http://recycler.com||3||1
+2016-12-11 17:54:30.661331||event||progress-marker||training-end||3||1
+2016-12-11 17:55:07.938190||treatment||visit website||http://kvia.com||1||1
+2016-12-11 17:55:14.046177||treatment||visit website||http://latina.com||1||1
+2016-12-11 17:55:26.326116||treatment||visit website||http://ssfcu.org||1||1
+2016-12-11 17:55:48.615810||treatment||visit website||http://elgenero.com||1||1
+2016-12-11 17:56:02.160030||treatment||visit website||http://recycler.com||1||1
+2016-12-11 17:56:02.160797||event||progress-marker||training-end||1||1
+2016-12-11 17:56:04.436742||event||progress-marker||measurement-start||2||0
+2016-12-11 17:56:05.803074||event||progress-marker||measurement-start||3||1
+2016-12-11 17:56:06.140207||event||progress-marker||measurement-start||0||0
+2016-12-11 17:56:07.166106||event||progress-marker||measurement-start||1||1
+2016-12-11 17:56:41.563179||measurement||ad||2016-12-11 17:56:37.263413@|British Expat in the USA?@|lp.forthcapital.com@|Avoid Losing 45% of your UK pension. Move your pension. Get your Free Guide! ||2||0
+2016-12-11 17:56:42.923126||measurement||ad||2016-12-11 17:56:37.263413@|IT Degree Programs Online@|technology.comparetopschools.com@|Find Accredited Online Schools With Programs in Information Technology.||2||0
+2016-12-11 17:56:46.524189||measurement||ad||2016-12-11 17:56:37.263413@|Healthcare Technology@|www.cdwcommunit.com@|Power Patient Care with Technology Using CDW's Healthcare IT Solutions||2||0
+2016-12-11 17:56:46.528625||measurement||loadtime||0:00:37.088123||2||0
+2016-12-11 17:56:50.537318||measurement||ad||2016-12-11 17:56:46.700630@|Mold Test Kits@|Interpretive Lab Report@|Easy to Use, Fast Results Available ||3||1
+2016-12-11 17:56:50.538235||measurement||loadtime||0:00:39.727400||3||1
+2016-12-11 17:56:59.873788||measurement||ad||2016-12-11 17:56:47.854440@|Best Free Antivirus@|usstoresavers.com/Free-Antivirus@|Special 2016 Hot Deals - On Now! Find Best Free Antivirus Programs||0||0
+2016-12-11 17:57:01.075482||measurement||ad||2016-12-11 17:56:47.854440@|Get RV Prices@|sell.classyrv.com@|Sell it fast, price it right. Get your free RV Valuation now.||0||0
+2016-12-11 17:57:02.623775||measurement||ad||2016-12-11 17:56:55.826925@|Top BI Trends for 2017@|www.tableau.com@|What's Coming in BI in 2017? See the Trends Now. Download Free!||1||1
+2016-12-11 17:57:03.590523||measurement||ad||2016-12-11 17:56:55.826925@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||1||1
+2016-12-11 17:57:04.487710||measurement||ad||2016-12-11 17:56:55.826925@|Southwest $98 RT Flights@|www.airfarewatchdog.com@|Fare Sale for Summer Travel $98 RT Flights.Deal Ends Soon.||1||1
+2016-12-11 17:57:04.496589||measurement||loadtime||0:00:52.324984||1||1
+2016-12-11 17:57:09.060317||measurement||ad||2016-12-11 17:56:47.854440@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||0||0
+2016-12-11 17:57:09.061171||measurement||loadtime||0:00:57.912423||0||0
+2016-12-11 17:57:22.966337||measurement||ad||2016-12-11 17:57:15.758610@|British Expat in the USA?@|lp.forthcapital.com@|Avoid Losing 45% of your UK pension. Move your pension. Get your Free Guide! ||3||1
+2016-12-11 17:57:24.633460||measurement||ad||2016-12-11 17:57:15.758610@|IT Degree Programs Online@|technology.comparetopschools.com@|Find Accredited Online Schools With Programs in Information Technology.||3||1
+2016-12-11 17:57:25.196712||measurement||ad||2016-12-11 17:57:15.758610@|Moving to Nicaragua Guide@|www.internationalliving.com@|New International Living™ report. For moving to Nicaragua. Free.||3||1
+2016-12-11 17:57:25.197587||measurement||loadtime||0:00:29.650042||3||1
+2016-12-11 17:57:25.930928||measurement||ad||2016-12-11 17:57:15.707260@|British Expat in the USA?@|lp.forthcapital.com@|Avoid Losing 45% of your UK pension. Move your pension. Get your Free Guide! ||2||0
+2016-12-11 17:57:30.814605||measurement||ad||2016-12-11 17:57:15.707260@|Airport Parking Coupons@|airportparkingtravel.shopathome.com@|Save On Your Next Trip With Airport Parking Coupons  Cash Back. Get The Savings App Now! ||2||0
+2016-12-11 17:57:36.055615||measurement||ad||2016-12-11 17:57:15.707260@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||2||0
+2016-12-11 17:57:36.056501||measurement||loadtime||0:00:44.523197||2||0
+2016-12-11 17:57:39.805383||measurement||ad||2016-12-11 17:57:37.649062@|Southwest $98 RT Flights@|www.airfarewatchdog.com@|Fare Sale for Summer Travel $98 RT Flights.Deal Ends Soon.||1||1
+2016-12-11 17:57:40.675164||measurement||ad||2016-12-11 17:57:37.649062@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||1||1
+2016-12-11 17:57:44.111950||measurement||ad||2016-12-11 17:57:37.649062@|Car Clearance Sale@|imotors.com/Car_Clearance@|Huge Savings On Vehicles at Local Dealerships. See Prices Now!||1||1
+2016-12-11 17:57:44.114962||measurement||loadtime||0:00:34.612152||1||1
+2016-12-11 17:57:55.464518||measurement||ad||2016-12-11 17:57:46.913668@|Mold Test Kits@|Easy to Understand Report@|Fast Lab Results ||0||0
+2016-12-11 17:57:55.465140||measurement||loadtime||0:00:41.398253||0||0
+2016-12-11 17:58:10.908643||measurement||ad||2016-12-11 17:58:01.017334@|Mold Test Kits@|Easy to Understand Report@|Fast Lab Results ||3||1
+2016-12-11 17:58:10.909530||measurement||loadtime||0:00:40.706464||3||1
+2016-12-11 17:58:14.614394||measurement||ad||2016-12-11 17:57:45.410091@|Mold Test Kits@|Interpretive Lab Report@|Easy to Use, Fast Results Available ||2||0
+2016-12-11 17:58:14.615319||measurement||loadtime||0:00:33.551378||2||0
+2016-12-11 17:58:17.344952||measurement||ad||2016-12-11 17:58:13.987840@|Mold Test Kits@|Interpretive Lab Report@|Easy to Use, Fast Results Available ||1||1
+2016-12-11 17:58:17.345823||measurement||loadtime||0:00:28.227212||1||1
+2016-12-11 17:58:34.787702||measurement||ad||2016-12-11 17:58:32.013325@|TV Channel Free Download@|www.mytelevisionhq.com@|Use Your Computer as a TV. Get the MyTelevisionHQ App Now!||0||0
+2016-12-11 17:58:35.445608||measurement||ad||2016-12-11 17:58:32.013325@|3 Catfish Fishing Tricks?@|oldschoolfishingsecrets.com/Secrets@|Unusual "Old School" Strategies can Catch Monster Catfish Quickly!||0||0
+2016-12-11 17:58:38.561239||measurement||ad||2016-12-11 17:58:24.833952@|Mold Test Kits@|Interpretive Lab Report@|Easy to Use, Fast Results Available ||2||0
+2016-12-11 17:58:38.561854||measurement||loadtime||0:00:18.938287||2||0
+2016-12-11 17:58:39.006968||measurement||ad||2016-12-11 17:58:32.013325@|Free Nicaragua Fact Sheet@|www.internationalliving.com@|For people considering visiting, real estate or living in Nicaragua||0||0
+2016-12-11 17:58:39.008259||measurement||loadtime||0:00:38.536175||0||0
+2016-12-11 17:58:52.982613||measurement||ad||2016-12-11 17:58:49.273321@|Become a Programmer@|technology.comparetopschools.com@|Request Free Info From Schools With Degrees in Computer Programming.||1||1
+2016-12-11 17:58:56.334888||measurement||ad||2016-12-11 17:58:49.273321@|Best Free Antivirus@|usstoresavers.com/Free-Antivirus@|Special 2016 Hot Deals - On Now! Find Best Free Antivirus Programs||1||1
+2016-12-11 17:58:59.262568||measurement||ad||2016-12-11 17:58:49.273321@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||1||1
+2016-12-11 17:58:59.263369||measurement||loadtime||0:00:36.909538||1||1
+2016-12-11 17:59:03.299883||measurement||ad||2016-12-11 17:58:58.510711@|Mold Test Kits@|Easy to Understand Report@|Fast Lab Results ||3||1
+2016-12-11 17:59:03.300638||measurement||loadtime||0:00:47.387282||3||1
+2016-12-11 17:59:10.569270||measurement||ad||2016-12-11 17:58:58.420886@|British Expat in the USA?@|lp.forthcapital.com@|Avoid Losing 45% of your UK pension. Move your pension. Get your Free Guide! ||2||0
+2016-12-11 17:59:21.511248||measurement||ad||2016-12-11 17:59:13.793704@|Mold Test Kits@|Interpretive Lab Report@|Easy to Use, Fast Results Available ||0||0
+2016-12-11 17:59:21.511815||measurement||loadtime||0:00:37.495233||0||0
+2016-12-11 17:59:27.226691||measurement||ad||2016-12-11 17:59:25.141605@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||1||1
+2016-12-11 17:59:28.929992||measurement||ad||2016-12-11 17:59:25.141605@|Car Rentals From $8/Day@|car-rentals.tripbase.com/Deals@|Get the Cheapest Car Rentals Deal. Compare Deals from Top Companies!||1||1
+2016-12-11 17:59:30.321302||measurement||ad||2016-12-11 17:58:58.420886@|Airport Parking Coupons@|airportparkingtravel.shopathome.com@|Save On Your Next Trip With Airport Parking Coupons  Cash Back. Get The Savings App Now! ||2||0
+2016-12-11 17:59:31.365263||measurement||ad||2016-12-11 17:59:25.141605@|Texas Roadhouse Coupons@|www.befrugal.com/TexasRoadhouse@|Free Coupons for Texas Roadhouse. Print Your Free Coupons Now!||1||1
+2016-12-11 17:59:31.366478||measurement||loadtime||0:00:27.097636||1||1
+2016-12-11 17:59:31.690195||measurement||ad||2016-12-11 17:58:58.420886@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||2||0
+2016-12-11 17:59:31.691218||measurement||loadtime||0:00:48.121896||2||0
+2016-12-11 17:59:34.820443||measurement||ad||2016-12-11 17:59:32.756170@|British Expat in the USA?@|lp.forthcapital.com@|Avoid Losing 45% of your UK pension. Move your pension. Get your Free Guide! ||3||1
+2016-12-11 17:59:40.867049||measurement||ad||2016-12-11 17:59:32.756170@|Retirement Annuity Income@|advisorworld.com/Retirement-Income@|7% Guaranteed LifeTime Income. Reduced Risk For Retirees Here.||3||1
+2016-12-11 17:59:49.829073||measurement||ad||2016-12-11 17:59:32.756170@|United Health Insurance@|cheapmunks.com/Health+Insurance@|Top 3 United Health Insurance. Find Plans  Reviews. Chose Smart||3||1
+2016-12-11 17:59:49.829923||measurement||loadtime||0:00:41.523856||3||1
+2016-12-11 18:00:03.993889||measurement||ad||2016-12-11 18:00:00.529204@|Southwest $98 RT Flights@|www.airfarewatchdog.com@|Fare Sale for Summer Travel $98 RT Flights.Deal Ends Soon.||1||1
+2016-12-11 18:00:04.891181||measurement||ad||2016-12-11 18:00:00.529204@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||1||1
+2016-12-11 18:00:05.670197||measurement||ad||2016-12-11 18:00:00.529204@|Free Mexico Retiree Guide@|www.internationalliving.com@|For Americans considering Retiring or Living in Mexico. Get it now.||1||1
+2016-12-11 18:00:05.671021||measurement||loadtime||0:00:29.297731||1||1
+2016-12-11 18:00:06.112465||measurement||ad||2016-12-11 18:00:02.338704@|British Expat in the USA?@|lp.forthcapital.com@|Avoid Losing 45% of your UK pension. Move your pension. Get your Free Guide! ||2||0
+2016-12-11 18:00:06.985216||measurement||ad||2016-12-11 18:00:02.338704@|Airport Parking Coupons@|airportparkingtravel.shopathome.com@|Save On Your Next Trip With Airport Parking Coupons  Cash Back. Get The Savings App Now! ||2||0
+2016-12-11 18:00:07.968996||measurement||ad||2016-12-11 18:00:02.338704@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||2||0
+2016-12-11 18:00:07.974869||measurement||loadtime||0:00:31.278701||2||0
+2016-12-11 18:00:27.406094||error||collecting ads||Error||0||0
+2016-12-11 18:00:35.384124||measurement||ad||2016-12-11 18:00:33.663724@|Mold Test Kits@|Interpretive Lab Report@|Easy to Use, Fast Results Available ||3||1
+2016-12-11 18:00:35.384841||measurement||loadtime||0:00:40.548154||3||1
+2016-12-11 18:00:39.648953||measurement||ad||2016-12-11 18:00:39.074114@|Become a Programmer@|technology.comparetopschools.com@|Request Free Info From Schools With Degrees in Computer Programming.||1||1
+2016-12-11 18:00:40.178752||measurement||ad||2016-12-11 18:00:39.074114@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||1||1
+2016-12-11 18:00:40.790913||measurement||ad||2016-12-11 18:00:39.074114@|Filipino Cruise Workers@|www.destinationtips.com@|14 Things You Don’t Know About Filipino Cruise Workers||1||1
+2016-12-11 18:00:40.791556||measurement||loadtime||0:00:30.114538||1||1
+2016-12-11 18:00:46.280661||measurement||ad||2016-12-11 18:00:43.868809@|Mold Test Kits@|Interpretive Lab Report@|Easy to Use, Fast Results Available ||2||0
+2016-12-11 18:00:46.281508||measurement||loadtime||0:00:33.302600||2||0
+2016-12-11 18:00:49.644748||measurement||ad||2016-12-11 18:00:36.221844@|Worker Health  Safety@|@|Explore the Science Behind 3M Scotchgard Anti-fog Coating ||0||0
+2016-12-11 18:00:49.645698||measurement||loadtime||0:00:17.227260||0||0
+2016-12-11 18:00:59.439056||measurement||ad||2016-12-11 18:00:58.445028@|British Expat in the USA?@|lp.forthcapital.com@|Avoid Losing 45% of your UK pension. Move your pension. Get your Free Guide! ||3||1
+2016-12-11 18:00:59.847091||measurement||ad||2016-12-11 18:00:58.445028@|Drive With Uber@|uber.com@|Drive When You Want, Earn What You Need. ||3||1
+2016-12-11 18:01:00.305231||measurement||ad||2016-12-11 18:00:58.445028@|IT Degree Programs Online@|technology.comparetopschools.com@|Find Accredited Online Schools With Programs in Information Technology.||3||1
+2016-12-11 18:01:00.305933||measurement||loadtime||0:00:19.914394||3||1
+2016-12-11 18:01:04.378339||measurement||ad||2016-12-11 18:01:03.697484@|Mold Test Kits@|Interpretive Lab Report@|Easy to Use, Fast Results Available ||1||1
+2016-12-11 18:01:04.379595||measurement||loadtime||0:00:18.581806||1||1
+2016-12-11 18:01:12.220223||measurement||ad||2016-12-11 18:01:09.500589@|Mold Test Kits@|Interpretive Lab Report@|Easy to Use, Fast Results Available ||2||0
+2016-12-11 18:01:12.221073||measurement||loadtime||0:00:20.932760||2||0
+2016-12-11 18:01:14.625556||measurement||ad||2016-12-11 18:01:13.824490@|Get RV Prices@|sell.classyrv.com@|Sell it fast, price it right. Get your free RV Valuation now.||0||0
+2016-12-11 18:01:17.761756||measurement||ad||2016-12-11 18:01:13.824490@|Become a Programmer@|technology.comparetopschools.com@|Find Accredited Online Schools With Degrees in Computer Programming.||0||0
+2016-12-11 18:01:21.626757||measurement||ad||2016-12-11 18:01:13.824490@|Best Free Antivirus@|usstoresavers.com/Free-Antivirus@|Special 2016 Hot Deals - On Now! Find Best Free Antivirus Programs||0||0
+2016-12-11 18:01:21.627404||measurement||loadtime||0:00:26.978529||0||0
+2016-12-11 18:01:24.396162||measurement||ad||2016-12-11 18:01:23.917247@|British Expat in the USA?@|lp.forthcapital.com@|Avoid Losing 45% of your UK pension. Move your pension. Get your Free Guide! ||3||1
+2016-12-11 18:01:24.634436||measurement||ad||2016-12-11 18:01:23.917247@|Airport Parking Coupons@|airportparkingtravel.shopathome.com@|Free Online Coupons  Offers Here. Get Parking Coupons  Savings App!||3||1
+2016-12-11 18:01:25.056866||measurement||ad||2016-12-11 18:01:23.917247@|Retire in the U.K@|www.internationalliving.com@|Free Report for people considering Retiring in the United Kindgom||3||1
+2016-12-11 18:01:25.057536||measurement||loadtime||0:00:19.746978||3||1
+2016-12-11 18:01:41.360983||measurement||ad||2016-12-11 18:01:39.898492@|British Expat in the USA?@|lp.forthcapital.com@|Avoid Losing 45% of your UK pension. Move your pension. Get your Free Guide! ||2||0
+2016-12-11 18:01:41.546899||measurement||ad||2016-12-11 18:01:34.680144@|Become a Programmer@|technology.comparetopschools.com@|Find Online Schools With Degree Programs in Computer Programming.||1||1
+2016-12-11 18:01:42.060620||measurement||ad||2016-12-11 18:01:39.898492@|Healthcare Technology@|www.cdwcommunit.com@|Power Patient Care with Technology Using CDW's Healthcare IT Solutions||2||0
+2016-12-11 18:01:43.212936||measurement||ad||2016-12-11 18:01:39.898492@|Become a Programmer@|technology.comparetopschools.com@|Request Free Info From Schools With Degrees in Computer Programming.||2||0
+2016-12-11 18:01:43.213630||measurement||loadtime||0:00:25.987439||2||0
+2016-12-11 18:01:43.536734||measurement||ad||2016-12-11 18:01:34.680144@|Filipino Cruise Workers@|www.destinationtips.com@|14 Things You Don’t Know About Filipino Cruise Workers||1||1
+2016-12-11 18:01:44.285030||measurement||ad||2016-12-11 18:01:34.680144@|Best Free Antivirus@|usstoresavers.com/Free-Antivirus@|Special 2016 Hot Deals - On Now! Find Best Free Antivirus Programs||1||1
+2016-12-11 18:01:44.285765||measurement||loadtime||0:00:34.899004||1||1
+2016-12-11 18:01:48.311867||measurement||ad||2016-12-11 18:01:47.501885@|Nicaragua Made Simple@|www.internationalliving.com@|Free report for people considering moving to Nicaragua.||0||0
+2016-12-11 18:01:49.109589||measurement||ad||2016-12-11 18:01:47.501885@|TV Channel Free Download@|www.mytelevisionhq.com@|Use Your Computer as a TV. Get the MyTelevisionHQ App Now!||0||0
+2016-12-11 18:01:49.200048||measurement||ad||2016-12-11 18:01:47.306354@|British Expat in the USA?@|lp.forthcapital.com@|Avoid Losing 45% of your UK pension. Move your pension. Get your Free Guide! ||3||1
+2016-12-11 18:01:49.462055||measurement||ad||2016-12-11 18:01:47.501885@|2016 Best best telescopes@|salespider.com/ProductReviews/Top10@|Top 10 best telescopes Comparison Free Research  Reviews!||0||0
+2016-12-11 18:01:49.462703||measurement||loadtime||0:00:22.826457||0||0
+2016-12-11 18:01:49.627143||measurement||ad||2016-12-11 18:01:47.306354@|Retire in the U.K@|www.internationalliving.com@|Free Report for people considering Retiring in the United Kindgom||3||1
+2016-12-11 18:01:50.085030||measurement||ad||2016-12-11 18:01:47.306354@|Top BI Trends for 2017@|www.tableau.com@|What's Coming in BI in 2017? See the Trends Now. Download Free!||3||1
+2016-12-11 18:01:50.085706||measurement||loadtime||0:00:20.023045||3||1
+2016-12-11 18:02:07.555018||measurement||ad||2016-12-11 18:02:05.970515@|Best Free Antivirus@|usstoresavers.com/Free-Antivirus@|Special 2016 Hot Deals - On Now! Find Best Free Antivirus Programs||1||1
+2016-12-11 18:02:08.110244||measurement||ad||2016-12-11 18:02:05.970515@|Become a Programmer@|technology.comparetopschools.com@|Request Free Info From Schools With Degrees in Computer Programming.||1||1
+2016-12-11 18:02:08.618519||measurement||ad||2016-12-11 18:02:05.970515@|Filipino Cruise Workers@|www.destinationtips.com@|14 Things You Don’t Know About Filipino Cruise Workers||1||1
+2016-12-11 18:02:08.619273||measurement||loadtime||0:00:19.314222||1||1
+2016-12-11 18:02:08.619663||event||progress-marker||measurement-end||1||1
+2016-12-11 18:02:17.098569||measurement||ad||2016-12-11 18:02:15.974895@|Mold Test Kits@|Easy to Understand Report@|Fast Lab Results ||3||1
+2016-12-11 18:02:17.099364||measurement||loadtime||0:00:22.008724||3||1
+2016-12-11 18:02:17.099992||event||progress-marker||measurement-end||3||1
+2016-12-11 18:02:19.977306||measurement||ad||2016-12-11 18:02:17.124922@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||0||0
+2016-12-11 18:02:21.408318||measurement||ad||2016-12-11 18:02:17.124922@|Best Free Antivirus@|usstoresavers.com/Free-Antivirus@|Special 2016 Hot Deals - On Now! Find Best Free Antivirus Programs||0||0
+2016-12-11 18:02:24.154787||measurement||ad||2016-12-11 18:02:17.124922@|Get RV Prices@|sell.classyrv.com@|Sell it fast, price it right. Get your free RV Valuation now.||0||0
+2016-12-11 18:02:24.155630||measurement||loadtime||0:00:29.686627||0||0
+2016-12-11 18:02:38.558677||measurement||ad||2016-12-11 18:02:30.964787@|Making Sense of Big Data@|www.tableau.com@|A Big Data Guide for Small  Medium Businesses. Get the Free eMagazine!||0||0
+2016-12-11 18:02:40.435102||measurement||ad||2016-12-11 18:02:30.964787@|Retire in the U.K@|www.internationalliving.com@|Free Report for people considering Retiring in the United Kindgom||0||0
+2016-12-11 18:02:40.609333||measurement||ad||2016-12-11 18:02:30.964787@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||0||0
+2016-12-11 18:02:40.611711||measurement||loadtime||0:00:11.449740||0||0
+2016-12-11 18:02:40.612098||event||progress-marker||measurement-end||0||0
+2016-12-11 18:02:48.313559||error||collecting ads||Error||2||0
+2016-12-11 18:02:48.314307||event||progress-marker||measurement-end||2||0
+2016-12-11 18:02:48.699497||meta||block_id end||2
+2016-12-11 18:02:48.699685||meta||block_id start||3
+2016-12-11 18:02:48.699700||meta||assignment||3@|0@|2@|1
+2016-12-11 18:02:57.339215||event||progress-marker||training-start||2||1
+2016-12-11 18:02:57.468824||event||progress-marker||training-start||3||0
+2016-12-11 18:02:57.496879||event||progress-marker||training-start||1||1
+2016-12-11 18:02:57.537766||event||progress-marker||training-start||0||0
+2016-12-11 18:03:38.829939||error||website timeout||http://lucianne.com||3||0
+2016-12-11 18:03:39.162371||error||website timeout||http://lucianne.com||0||0
+2016-12-11 18:03:46.917406||treatment||visit website||http://marymaxim.com||3||0
+2016-12-11 18:03:47.149030||error||website timeout||http://univision.com||1||1
+2016-12-11 18:03:47.395773||treatment||visit website||http://marymaxim.com||0||0
+2016-12-11 18:03:54.653530||error||website timeout||http://univision.com||2||1
+2016-12-11 18:04:04.670232||treatment||visit website||http://thrivent.com||3||0
+2016-12-11 18:04:11.098620||treatment||visit website||http://thrivent.com||0||0
+2016-12-11 18:04:11.374425||treatment||visit website||http://tractorshed.com||3||0
+2016-12-11 18:04:12.682799||treatment||visit website||http://google.com.mx||2||1
+2016-12-11 18:04:13.501660||treatment||visit website||http://google.com.mx||1||1
+2016-12-11 18:04:18.606396||treatment||visit website||http://tractorshed.com||0||0
+2016-12-11 18:04:19.813531||treatment||visit website||http://misabueso.com||1||1
+2016-12-11 18:04:31.373788||treatment||visit website||http://lapatilla.com||1||1
+2016-12-11 18:04:38.933574||treatment||visit website||http://misabueso.com||2||1
+2016-12-11 18:04:45.585493||treatment||visit website||http://badoo.com||1||1
+2016-12-11 18:05:16.329693||error||website timeout||http://pressrepublican.com||3||0
+2016-12-11 18:05:19.123904||error||website timeout||http://pressrepublican.com||0||0
+2016-12-11 18:05:29.669558||treatment||visit website||http://google.es||1||1
+2016-12-11 18:05:52.360871||treatment||visit website||http://thesunchronicle.com||3||0
+2016-12-11 18:06:03.055063||treatment||visit website||http://thesunchronicle.com||0||0
+2016-12-11 18:06:03.497486||error||website timeout||http://lapatilla.com||2||1
+2016-12-11 18:06:09.486949||treatment||visit website||http://auburnpub.com||3||0
+2016-12-11 18:06:18.613199||treatment||visit website||http://auburnpub.com||0||0
+2016-12-11 18:06:24.965997||error||website timeout||http://lan.com||1||1
+2016-12-11 18:06:34.539594||treatment||visit website||http://e-travel.com||1||1
+2016-12-11 18:06:53.390205||treatment||visit website||http://allears.net||3||0
+2016-12-11 18:07:25.962825||treatment||visit website||http://allears.net||0||0
+2016-12-11 18:07:27.565335||treatment||visit website||http://northcountrynow.com||3||0
+2016-12-11 18:08:11.340917||error||website timeout||http://duluthnewstribune.com||3||0
+2016-12-11 18:08:17.109569||error||website timeout||http://northcountrynow.com||0||0
+2016-12-11 18:08:26.518094||treatment||visit website||http://singingnews.com||3||0
+2016-12-11 18:09:20.167447||error||website timeout||http://taringa.net||1||1
+2016-12-11 18:09:29.085166||error||website timeout||http://duluthnewstribune.com||0||0
+2016-12-11 18:09:41.034604||treatment||visit website||http://thevillages.com||3||0
+2016-12-11 18:10:02.287674||treatment||visit website||http://singingnews.com||0||0
+2016-12-11 18:10:18.147006||treatment||visit website||http://horoscopo.com||1||1
+2016-12-11 18:10:23.746560||error||website timeout||http://wsaw.com||3||0
+2016-12-11 18:10:53.961968||treatment||visit website||http://patriotupdate.com||3||0
+2016-12-11 18:11:07.479253||treatment||visit website||http://thevillages.com||0||0
+2016-12-11 18:11:50.607734||error||website timeout||http://wsaw.com||0||0
+2016-12-11 18:11:52.356003||treatment||visit website||http://elpasotimes.com||1||1
+2016-12-11 18:12:22.957023||treatment||visit website||http://yesterdaystractors.com||3||0
+2016-12-11 18:12:23.492367||treatment||visit website||http://patriotupdate.com||0||0
+2016-12-11 18:12:29.013384||treatment||visit website||http://postbulletin.com||3||0
+2016-12-11 18:12:55.878100||treatment||visit website||http://wdio.com||3||0
+2016-12-11 18:13:24.729239||treatment||visit website||http://wbng.com||3||0
+2016-12-11 18:13:50.270493||treatment||visit website||http://fotolog.com||1||1
+2016-12-11 18:14:10.736981||treatment||visit website||http://yesterdaystractors.com||0||0
+2016-12-11 18:14:19.931025||treatment||visit website||http://postbulletin.com||0||0
+2016-12-11 18:14:22.697479||treatment||visit website||http://geisinger.org||3||0
+2016-12-11 18:15:08.974102||error||website timeout||http://theanimalrescuesite.com||3||0
+2016-12-11 18:15:08.975051||event||progress-marker||training-end||3||0
+2016-12-11 18:15:17.516848||error||website timeout||http://valleycentral.com||1||1
+2016-12-11 18:15:24.059775||treatment||visit website||http://wdio.com||0||0
+2016-12-11 18:15:46.679785||treatment||visit website||http://miamidade.gov||1||1
+2016-12-11 18:16:01.801699||treatment||visit website||http://wbng.com||0||0
+2016-12-11 18:16:10.577106||treatment||visit website||http://blazersedge.com||1||1
+2016-12-11 18:16:20.535653||treatment||visit website||http://geisinger.org||0||0
+2016-12-11 18:16:28.831230||treatment||visit website||http://kvia.com||1||1
+2016-12-11 18:16:34.462599||treatment||visit website||http://theanimalrescuesite.com||0||0
+2016-12-11 18:16:34.463294||event||progress-marker||training-end||0||0
+2016-12-11 18:17:12.385437||treatment||visit website||http://latina.com||1||1
+2016-12-11 18:17:28.144277||treatment||visit website||http://ssfcu.org||1||1
+2016-12-11 18:18:08.681390||treatment||visit website||http://elgenero.com||1||1
+2016-12-11 18:18:26.125111||treatment||visit website||http://recycler.com||1||1
+2016-12-11 18:18:26.128187||event||progress-marker||training-end||1||1
+2016-12-11 18:36:08.712921||error||block timeout||Error||0||0
+2016-12-11 18:36:08.735493||error||block timeout||Error||1||1
+2016-12-11 18:36:08.751462||error||block timeout||Error||1||2
+2016-12-11 18:36:08.752232||error||website timeout||http://badoo.com||2||1
+2016-12-11 18:36:08.752944||error||website timeout||http://google.es||2||1
+2016-12-11 18:36:08.759978||error||block timeout||Error||0||3
+2016-12-11 21:27:28.550077||treatment||visit website||http://lan.com||2||1
+2016-12-11 21:27:34.525379||treatment||visit website||http://e-travel.com||2||1
+2016-12-11 21:29:43.436784||error||website timeout||http://taringa.net||2||1
+2016-12-11 21:29:59.270746||treatment||visit website||http://horoscopo.com||2||1
+2016-12-11 21:30:51.273467||treatment||visit website||http://elpasotimes.com||2||1
+2016-12-11 21:32:51.645583||treatment||visit website||http://fotolog.com||2||1
+2016-12-11 21:33:15.936740||treatment||visit website||http://valleycentral.com||2||1
+2016-12-11 21:33:21.834979||treatment||visit website||http://miamidade.gov||2||1
+2016-12-11 21:33:28.341049||treatment||visit website||http://blazersedge.com||2||1
+2016-12-11 21:33:39.023754||treatment||visit website||http://kvia.com||2||1
+2016-12-11 21:33:53.129289||treatment||visit website||http://latina.com||2||1
+2016-12-11 21:34:03.421591||treatment||visit website||http://ssfcu.org||2||1
+2016-12-11 21:34:20.808822||treatment||visit website||http://elgenero.com||2||1
+2016-12-11 21:34:31.241077||treatment||visit website||http://recycler.com||2||1
+2016-12-11 21:34:31.241703||event||progress-marker||training-end||2||1
+2016-12-11 21:34:36.250020||event||progress-marker||measurement-start||2||1
+2016-12-11 21:34:54.868190||measurement||ad||2016-12-11 21:34:54.253489@|Mold Test Kits@|Interpretive Lab Report@|Easy to Use, Fast Results Available ||2||1
+2016-12-11 21:34:54.868947||measurement||loadtime||0:00:13.615934||2||1
+2016-12-11 21:35:06.158668||measurement||ad||2016-12-11 21:35:00.950742@|Just Media Whitepapers@|justmedia.com@|Tech Marketing Analytics 101. Sign up and Download for Free!||2||1
+2016-12-11 21:35:12.935160||measurement||ad||2016-12-11 21:35:00.950742@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||2||1
+2016-12-11 21:35:13.478502||measurement||ad||2016-12-11 21:35:00.950742@|10 Best Dividend ETFs@|investmentu.com@|Start collecting dividend yields as high as 19.72%. Check out our top 10 list for 2017. ||2||1
+2016-12-11 21:35:13.479479||measurement||loadtime||0:00:13.605563||2||1
+2016-12-11 21:35:29.264766||measurement||ad||2016-12-11 21:35:29.102639@|Lyft™ $1000 Driver Bonus@|lyft.com@|Earn Tips  Make Up To $35/Hour Driving with Lyft. Limited Time Offer - Apply Now! ||2||1
+2016-12-11 21:35:29.323989||measurement||ad||2016-12-11 21:35:29.102639@|6 Stocks to Hold Forever@|wealthyretirement.com/PreferredStocks@|Looking to retire? These 6 stocks will generate regular income. ||2||1
+2016-12-11 21:35:29.418632||measurement||ad||2016-12-11 21:35:29.102639@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||2||1
+2016-12-11 21:35:29.419673||measurement||loadtime||0:00:10.930779||2||1
+2016-12-11 21:35:41.761263||measurement||ad||2016-12-11 21:35:40.170266@|Just Media Whitepapers@|justmedia.com@|Online Display Advertising. Free Whitepaper Downloads!||2||1
+2016-12-11 21:35:41.883724||measurement||ad||2016-12-11 21:35:40.170266@|Want to Live in Cuba?@|www.internationalliving.com/Cuba@|Free Report: Everything you need to know about Cuba. Act now.||2||1
+2016-12-11 21:35:41.963788||measurement||ad||2016-12-11 21:35:40.170266@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||2||1
+2016-12-11 21:35:41.964685||measurement||loadtime||0:00:07.542231||2||1
+2016-12-11 21:35:55.387197||measurement||ad||2016-12-11 21:35:55.116251@|Mold Test Kits@|Easy to Understand Report@|Fast Lab Results ||2||1
+2016-12-11 21:35:55.387852||measurement||loadtime||0:00:08.414845||2||1
+2016-12-11 21:36:06.128143||measurement||ad||2016-12-11 21:36:05.972338@|Lyft™ $1000 Driver Bonus@|lyft.com@|Earn Tips  Make Up To $35/Hour Driving with Lyft. Limited Time Offer - Apply Now! ||2||1
+2016-12-11 21:36:06.198663||measurement||ad||2016-12-11 21:36:05.972338@|6 Stocks to Hold Forever@|wealthyretirement.com/PreferredStocks@|Looking to retire? These 6 stocks will generate regular income. ||2||1
+2016-12-11 21:36:06.291475||measurement||ad||2016-12-11 21:36:05.972338@|Kids Casting Calls 2016@|kidscasting.com/Sign-Up-Today@|Disney, NBC, MTV, Nickelodeon etc. Submit Your Kids Photo Today!||2||1
+2016-12-11 21:36:06.292056||measurement||loadtime||0:00:05.898821||2||1
+2016-12-11 21:36:16.052823||measurement||ad||2016-12-11 21:36:15.949970@|Mold Test Kits@|Interpretive Lab Report@|Easy to Use, Fast Results Available ||2||1
+2016-12-11 21:36:16.053514||measurement||loadtime||0:00:04.755475||2||1
+2016-12-11 21:36:25.544330||measurement||ad||2016-12-11 21:36:25.217190@|Mold Test Kits@|Interpretive Lab Report@|Easy to Use, Fast Results Available ||2||1
+2016-12-11 21:36:25.544955||measurement||loadtime||0:00:04.487229||2||1
+2016-12-11 21:36:39.178773||measurement||ad||2016-12-11 21:36:38.310821@|Mold Test Kits@|Interpretive Lab Report@|Easy to Use, Fast Results Available ||2||1
+2016-12-11 21:36:39.181709||measurement||loadtime||0:00:08.632762||2||1
+2016-12-11 21:36:49.343578||measurement||ad||2016-12-11 21:36:49.208484@|Just Media Whitepapers@|justmedia.com@|Tech Marketing Analytics 101. Sign up and Download for Free!||2||1
+2016-12-11 21:36:49.441575||measurement||ad||2016-12-11 21:36:49.208484@|Man Cheats Credit Score@|www.thecreditsolutionprogram.com@|1 simple trick  my credit score jumped 217 pts. Banks hate this!||2||1
+2016-12-11 21:36:49.759571||measurement||ad||2016-12-11 21:36:49.208484@|Become a Programmer@|technology.comparetopschools.com@|Request Free Info From Schools With Degrees in Computer Programming.||2||1
+2016-12-11 21:36:49.760999||measurement||loadtime||0:00:05.569738||2||1
+2016-12-11 21:36:49.762402||event||progress-marker||measurement-end||2||1
